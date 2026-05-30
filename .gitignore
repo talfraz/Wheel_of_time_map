@@ -2,3 +2,5 @@ node_modules/
 .gemini/
 *.log
 .env
+.DS_Store
+Thumbs.db
