@@ -37,15 +37,6 @@
           </div>
           <span id="app-subtitle" class="subtitle">המפה האינטראקטיבית</span>
         </div>
-        
-        <div class="header-controls">
-          <button id="toggle-markers-btn" class="btn-icon tooltip" data-tooltip="הצג/הסתר סימניות">
-            <i class="fa-solid fa-eye"></i>
-          </button>
-          <button id="lang-btn" class="btn-icon tooltip" data-tooltip="Switch to English">
-            <i class="fa-solid fa-globe"></i>
-          </button>
-        </div>
       </header>
 
       <!-- Main Controls Area -->
@@ -53,12 +44,23 @@
         
         <!-- Search and Filters Section -->
         <section class="filter-section">
-          <div class="search-wrapper">
-            <i class="fa-solid fa-magnifying-glass search-icon"></i>
-            <input type="text" id="search-input" placeholder="חיפוש מיקום..." autocomplete="off">
-            <button id="clear-search-btn" class="clear-btn" style="display: none;">
-              <i class="fa-solid fa-xmark"></i>
-            </button>
+          <div class="search-row">
+            <div class="search-wrapper">
+              <i class="fa-solid fa-magnifying-glass search-icon"></i>
+              <input type="text" id="search-input" placeholder="חיפוש מיקום..." autocomplete="off">
+              <button id="clear-search-btn" class="clear-btn" style="display: none;">
+                <i class="fa-solid fa-xmark"></i>
+              </button>
+            </div>
+            
+            <div class="search-controls">
+              <button id="toggle-markers-btn" class="btn-icon tooltip" data-tooltip="הצג/הסתר סימניות">
+                <i class="fa-solid fa-eye"></i>
+              </button>
+              <button id="lang-btn" class="btn-icon tooltip" data-tooltip="Switch to English">
+                <i class="fa-solid fa-globe"></i>
+              </button>
+            </div>
           </div>
           
           <div class="category-filters">
