@@ -130,10 +130,10 @@ h1, h2, h3, h4, h5, h6, .fantasy-title {
 }
 
 .brand-logo-img {
-  width: 20px;
-  height: 20px;
+  width: 12px;
+  height: 12px;
   object-fit: contain;
-  filter: drop-shadow(0 0 6px rgba(212, 175, 55, 0.5));
+  filter: drop-shadow(0 0 4px rgba(212, 175, 55, 0.5));
   animation: logo-pulse 4s infinite alternate;
 }
 
