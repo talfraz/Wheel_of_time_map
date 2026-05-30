@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="מפה אינטראקטיבית מפורטת של עולם 'כישור הזמן' (Wheel of Time). נווטו בין ערים ומקומות, קראו תיאורים היסטוריים ותרגמו שמות לעברית ולאנגלית בזמן אמת.">
+  <title>מפת כישור הזמן | Wheel of Time Interactive Map</title>
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  
+  <!-- Google Fonts - Cinzel for Fantasy Titles, Inter for UI -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&family=Secular+One&family=Tinos:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome for Premium Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Custom Styling -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <div class="app-container">
+    
+    <!-- Sidebar / Control Panel -->
+    <aside class="sidebar" id="sidebar-panel">
+      <header class="sidebar-header">
+        <div class="title-container">
+          <div class="title-row">
+            <i class="fa-solid fa-dharmachakra brand-logo"></i>
+            <h1 id="app-title" class="fantasy-title">כישור הזמן</h1>
+          </div>
+          <span id="app-subtitle" class="subtitle">המפה האינטראקטיבית</span>
+        </div>
+        
+
+      </header>
+
+      <!-- Main Controls Area -->
+      <div class="sidebar-content">
+        
+        <!-- Search and Filters Section -->
+        <section class="filter-section">
+          <div class="search-wrapper">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input type="text" id="search-input" placeholder="חיפוש מיקום..." autocomplete="off">
+            <button id="clear-search-btn" class="clear-btn" style="display: none;">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div>
+          
+          <div class="category-filters">
+            <button class="filter-chip active" data-category="all" id="filter-all">הכל</button>
+            <button class="filter-chip" data-category="capital" id="filter-capital">ערי בירה</button>
+            <button class="filter-chip" data-category="city" id="filter-city">ערים</button>
+            <button class="filter-chip" data-category="village" id="filter-village">כפרים</button>
+            <button class="filter-chip" data-category="stedding" id="filter-stedding">סטדינג</button>
+            <button class="filter-chip" data-category="portal_stone" id="filter-portal-stone">אבני שער</button>
+            <button class="filter-chip" data-category="ruins" id="filter-ruins">חורבות</button>
+            <button class="filter-chip" data-category="district" id="filter-district">מחוזות</button>
+            <button class="filter-chip" data-category="region" id="filter-region">איזורים</button>
+            <button class="filter-chip" data-category="landmark" id="filter-landmark">אתרים</button>
+          </div>
+        </section>
+
+        <!-- Editor Controls Banner (visible in editor mode) -->
+        <section id="editor-banner" class="editor-banner" style="display: none;">
+          <button id="add-custom-btn" class="btn btn-primary btn-block">
+            <i class="fa-solid fa-circle-plus"></i> <span id="btn-add-new-text">הוסף מקום חדש</span>
+          </button>
+        </section>
+
+        <!-- Locations List Container -->
+        <section class="locations-section">
+          <!-- Mapped Places -->
+          <div class="list-group">
+            <h2 class="section-title" id="mapped-title">מקומות שמופו <span class="badge" id="mapped-count">0</span></h2>
+            <div class="locations-list" id="mapped-list">
+              <!-- JS will populate -->
+            </div>
+          </div>
+
+          <!-- Unmapped Places -->
+          <div class="list-group" id="unmapped-group">
+            <h2 class="section-title" id="unmapped-title">מקומות להצבה במפה <span class="badge badge-warning" id="unmapped-count">0</span></h2>
+            <div class="locations-list" id="unmapped-list">
+              <!-- JS will populate -->
+            </div>
+          </div>
+        </section>
+
+        <!-- Sidebar Editing Form Section (replacing bottom half of sidebar when active) -->
+        <section id="sidebar-form-section" class="sidebar-form-section" style="display: none;">
+          <header class="form-section-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 8px;">
+            <h3 id="form-section-title" class="fantasy-title" style="font-size: 1.1rem; margin: 0; color: var(--gold-accent);">הוספת מקום חדש</h3>
+            <button class="close-form-btn" id="close-form-btn" type="button" style="background: none; border: none; color: var(--text-muted); cursor: pointer; padding: 2px;"><i class="fa-solid fa-xmark"></i></button>
+          </header>
+          
+          <form id="location-form" class="sidebar-form-body" style="display: flex; flex-direction: column; gap: 10px; overflow-y: auto; flex: 1; width: 100%;">
+            <input type="hidden" id="form-id">
+            <input type="hidden" id="form-y">
+            <input type="hidden" id="form-x">
+            
+            <div class="form-group" style="display: flex; flex-direction: column; gap: 4px; width: 100%;">
+              <label for="form-name-en" style="font-size: 0.78rem; font-weight: 600; color: var(--text-muted);">Name (English) <span class="required" style="color: var(--red-accent);">*</span></label>
+              <input type="text" id="form-name-en" placeholder="e.g. Tar Valon" required autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 0.88rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; color: var(--text-main);">
+            </div>
+            
+            <div class="form-group" style="display: flex; flex-direction: column; gap: 4px; width: 100%;">
+              <label for="form-name-he" style="font-size: 0.78rem; font-weight: 600; color: var(--text-muted);">שם (עברית) <span class="required" style="color: var(--red-accent);">*</span></label>
+              <input type="text" id="form-name-he" placeholder="לדוגמה: טאר ואלון" required autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 0.88rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; color: var(--text-main);">
+            </div>
+
+            <div class="form-group" style="display: flex; flex-direction: column; gap: 4px; width: 100%;">
+              <label for="form-category" style="font-size: 0.78rem; font-weight: 600; color: var(--text-muted);">קטגוריה / Category</label>
+              <select id="form-category" style="width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 0.88rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; color: var(--text-main);">
+                <option value="capital">עיר בירה / Capital</option>
+                <option value="city" selected>עיר / City</option>
+                <option value="village">כפר / Village</option>
+                <option value="stedding">סטדינג / Stedding</option>
+                <option value="portal_stone">אבן שער / Portal Stone</option>
+                <option value="ruins">חורבות / Ruins</option>
+                <option value="district">מחוז / District</option>
+                <option value="region">איזור / Area</option>
+                <option value="landmark">אתר / Landmark</option>
+              </select>
+            </div>
+
+            <div class="form-group" style="display: flex; flex-direction: column; gap: 4px; width: 100%;">
+              <label for="form-desc-en" style="font-size: 0.78rem; font-weight: 600; color: var(--text-muted);">Description (English)</label>
+              <textarea id="form-desc-en" rows="3" placeholder="Describe the lore and history..." style="width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 0.85rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; color: var(--text-main); resize: none;"></textarea>
+            </div>
+
+            <div class="form-group" style="display: flex; flex-direction: column; gap: 4px; width: 100%;">
+              <label for="form-desc-he" style="font-size: 0.78rem; font-weight: 600; color: var(--text-muted);">תיאור (עברית)</label>
+              <textarea id="form-desc-he" rows="3" placeholder="תאר את ההיסטוריה והסיפור..." style="width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 0.85rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; color: var(--text-main); resize: none;"></textarea>
+            </div>
+            
+            <div class="form-coords-row" style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 4px; width: 100%;">
+              <div class="coords-preview-group" id="form-coords-preview-group" style="flex: 1; display: flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.05); padding: 6px 12px; border-radius: 4px; font-size: 0.78rem; color: var(--text-muted); box-sizing: border-box; height: 36px;">
+                <i class="fa-solid fa-location-crosshairs" style="color: var(--gold-accent);"></i>
+                <span>Y: <strong id="form-y-display" style="color: var(--gold-accent); font-family: monospace;">-</strong>, X: <strong id="form-x-display" style="color: var(--gold-accent); font-family: monospace;">-</strong></span>
+              </div>
+              
+              <button type="button" id="reposition-location-btn" class="btn btn-secondary btn-sm" style="flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 6px 10px; font-size: 0.8rem; height: 36px; border-radius: 4px; cursor: pointer; transition: all 0.2s; box-sizing: border-box;">
+                <i class="fa-solid fa-map-pin"></i> <span id="reposition-btn-text">מקם במפה</span>
+              </button>
+            </div>
+            
+            <footer class="form-section-footer" style="display: flex; gap: 8px; margin-top: auto; padding-top: 10px; border-top: 1px solid rgba(255, 255, 255, 0.05); width: 100%;">
+              <button type="button" class="btn btn-secondary btn-sm" id="cancel-form-btn" style="flex: 1; padding: 8px; font-size: 0.85rem; border-radius: 4px; cursor: pointer; height: 36px; display: inline-flex; align-items: center; justify-content: center;">ביטול / Cancel</button>
+              <button type="submit" class="btn btn-primary btn-sm" id="save-location-btn" style="flex: 1; padding: 8px; font-size: 0.85rem; border-radius: 4px; cursor: pointer; height: 36px; display: inline-flex; align-items: center; justify-content: center;">שמירה / Save</button>
+            </footer>
+          </form>
+        </section>
+      </div>
+      
+      <footer class="sidebar-footer">
+        <p class="footer-text">© 2026 Antigravity Pair Programmer</p>
+        <div class="footer-controls">
+          <button id="toggle-markers-btn" class="btn-icon tooltip" data-tooltip="הצג/הסתר סימניות">
+            <i class="fa-solid fa-eye"></i>
+          </button>
+          <button id="lang-btn" class="btn-icon tooltip" data-tooltip="Switch to English">
+            <i class="fa-solid fa-globe"></i>
+          </button>
+          <button id="editor-btn" class="btn-icon tooltip" data-tooltip="מצב עריכה">
+            <i class="fa-solid fa-gear"></i>
+          </button>
+        </div>
+    </aside>
+    
+    <!-- Sidebar Backdrop for mobile -->
+    <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+    
+    <!-- Map Canvas Area -->
+    <main class="map-area">
+      <!-- Mobile Floating Sidebar Toggle -->
+      <button id="mobile-toggle-btn" class="mobile-toggle-btn" aria-label="Toggle Sidebar" style="display: none;">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      
+      <!-- Leaflet Map Div -->
+      <div id="map"></div>
+      
+      <!-- Coordinate Display overlay (Editor Mode) -->
+      <div class="coords-display" id="coords-display-panel" style="display: none;">
+        <span class="label" id="coords-label">קואורדינטות:</span>
+        <span class="value" id="coords-value">Y: 0, X: 0</span>
+        <button id="close-coords-btn" class="close-coords-btn"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+
+      <!-- Currently Selected Target for Mapping overlay -->
+      <div class="mapping-alert" id="mapping-alert-panel" style="display: none;">
+        <div class="mapping-alert-content">
+          <i class="fa-solid fa-crosshairs pulse-icon"></i>
+          <div>
+            <span id="mapping-alert-text">לחץ על המפה כדי להציב את <strong>טאר ואלון</strong></span>
+          </div>
+        </div>
+        <button id="cancel-mapping-btn" class="btn btn-sm btn-danger"><span id="cancel-mapping-text">ביטול</span></button>
+      </div>
+    </main>
+
+  </div>
+
+
+
+  <!-- Toast notification system -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  
+  <!-- Firebase core App SDK & Cloud Firestore SDK -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
+  <script>
+    // Firebase Configuration. Replace with your actual credentials from Firebase Console Project Settings.
+    const firebaseConfig = {
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+      projectId: "YOUR_PROJECT_ID",
+      storageBucket: "YOUR_PROJECT_ID.appspot.com",
+      messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+      appId: "YOUR_APP_ID"
+    };
+
+    // Initialize Firebase gracefully. If placeholders are still present, we run in Local Fallback mode.
+    if (firebaseConfig.apiKey !== "YOUR_API_KEY") {
+      try {
+        firebase.initializeApp(firebaseConfig);
+        window.db = firebase.firestore();
+        console.log("Firebase initialized successfully! Cloud Database connected.");
+      } catch (e) {
+        console.error("Failed to initialize Firebase:", e);
+        window.db = null;
+      }
+    } else {
+      console.warn("Firebase placeholders detected. Running in Local Storage/Node Server fallback mode.");
+      window.db = null;
+    }
+  </script>
+  
+  <!-- Application JS -->
+  <script src="app.js"></script>
+</body>
+</html>

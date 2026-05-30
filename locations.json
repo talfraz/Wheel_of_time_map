@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "tar_valon",
+    "name_en": "Tar Valon",
+    "name_he": "טאר ואלון",
+    "desc_en": "The capital of the Aes Sedai, situated on an island in the River Erinin. It is centered around the massive White Tower, the heart of Aes Sedai power.",
+    "desc_he": "עיר הבירה של האס סדאי, השוכנת על אי בנהר ארינין. מרכזה הוא המגדל הלבן העצום, לב כוחן והשפעתן של האס סדאי.",
+    "category": "capital",
+    "coords": [
+      3173,
+      5039
+    ]
+  },
+  {
+    "id": "caemlyn",
+    "name_en": "Caemlyn",
+    "name_he": "קאמלין",
+    "desc_en": "The capital city of Andor, one of the grandest and most beautiful cities in the Westlands, famous for its golden-domed Royal Palace.",
+    "desc_he": "עיר הבירה של אנדור, אחת הערים המפוארות והיפות ביותר בארצות המערב, המפורסמת בארמון המלכותי בעל כיפות הזהב שלה.",
+    "category": "capital",
+    "coords": [
+      2197,
+      4619
+    ]
+  },
+  {
+    "id": "tear",
+    "name_en": "Tear",
+    "name_he": "טיר",
+    "desc_en": "A massive port city in the south, ruled by the High Lords. It is dominated by the Stone of Tear, an ancient fortress that held the legendary sword Callandor.",
+    "desc_he": "עיר נמל אדירה בדרום, הנשלטת על ידי הלורדים הגדולים. מעליה מתנשאת מצודת טיר (The Stone of Tear), מבצר עתיק שבו נשמרה החרב המיתולוגית קאלנדור.",
+    "category": "capital",
+    "coords": [
+      1085,
+      5102
+    ]
+  },
+  {
+    "id": "illian",
+    "name_en": "Illian",
+    "name_he": "איליאן",
+    "desc_en": "A major seaport and commercial rival to Tear. It is ruled by the King and the Council of Nine, famous for its Great Square and the Gathering of the Companions.",
+    "desc_he": "עיר נמל מרכזית ויריבתה המסחרית הגדולה של טיר. היא נשלטת על ידי המלך ומועצת התשעה, ומפורסמת בכיכר הגדולה שלה ובחבורת הרעים (The Companions).",
+    "category": "capital",
+    "coords": [
+      688,
+      4220
+    ]
+  },
+  {
+    "id": "emonds_field",
+    "name_en": "Emond's Field",
+    "name_he": "שדה אמונד",
+    "desc_en": "A peaceful village in the isolated region of the Two Rivers, home to Rand al'Thor, Mat Cauthon, Perrin Aybara, Egwene al'Vere, and Nynaeve al'Meara.",
+    "desc_he": "כפר שליו באזור המבודד של שני הנהרות (Two Rivers), ביתם המקורי של רנד אל'תור, מאט קוטון, פרין אייברה, אגווין אל'וור, ונינאב אל'מירה.",
+    "category": "village",
+    "coords": [
+      2351,
+      2968
+    ]
+  },
+  {
+    "id": "baerlon",
+    "name_en": "Baerlon",
+    "name_he": "בארלון",
+    "desc_en": "A walled, bustling mining town in northern Andor. It is the first major town the Two Rivers villagers reach after escaping their home.",
+    "desc_he": "עיר מכרות מוקפת חומה בצפון אנדור. זוהי העיירה הגדולה הראשונה שאליה מגיעים תושבי שני הנהרות לאחר מנוסתם מביתם.",
+    "category": "city",
+    "coords": [
+      2544,
+      3058
+    ]
+  },
+  {
+    "id": "whitebridge",
+    "name_en": "WhiteBridge",
+    "name_he": "גשר לבן",
+    "desc_en": "A town in Andor named after the famous, indestructible white bridge made of glass-like ancient material that spans the River Erinin.",
+    "desc_he": "עיירה באנדור הקרויה על שם הגשר הלבן המפורסם, מבנה בלתי ניתן להריסה העשוי מחומר עתיק דמוי זכוכית החוצה את נהר הארינין.",
+    "category": "city",
+    "coords": [
+      2186,
+      3722
+    ]
+  },
+  {
+    "id": "shayol_ghul",
+    "name_en": "Shayol Ghul",
+    "name_he": "שאיול גול",
+    "desc_en": "A mountain of black ash in the Great Blight, the focal point of the Dark One's power and physical presence in the world.",
+    "desc_he": "הר של אפר שחור בשממה הגדולה (The Great Blight), מוקד כוחו ונוכחותו הפיזית של אדון האופל בעולם.",
+    "category": "region",
+    "coords": [
+      4586,
+      5519
+    ]
+  },
+  {
+    "id": "rhuidean",
+    "name_en": "Rhuidean",
+    "name_he": "רואידיאן",
+    "desc_en": "An ancient, ruined city hidden in a fog-filled valley in the Aiel Waste, containing highly powerful Ter'angreal used for Aiel trials.",
+    "desc_he": "עיר עתיקה והרוסה החבויה בעמק אפוף ערפל במדבר של האייל (Aiel Waste), המכילה חפצי כוח עצמתיים (Ter'angreal) המשמשים למבחני המנהיגות של האייל.",
+    "category": "ruins",
+    "coords": [
+      2794,
+      6861
+    ]
+  },
+  {
+    "id": "falme",
+    "name_en": "Falme",
+    "name_he": "פאלמה",
+    "desc_en": "A key seaport town located on the Head of Toman in the far west, where the Seanchan invaders made their first major landing and the Horn of Valere was blown.",
+    "desc_he": "עיר נמל מרכזית בקצה המערבי (Toman Head), שבה נחתו פולשי הסינצ'ן לראשונה ושם נשמע תקיעת שופר ואלר שהקיץ את הגיבורים המתים.",
+    "category": "city",
+    "coords": [
+      2422,
+      1645
+    ]
+  },
+  {
+    "id": "ebou_dar",
+    "name_en": "Ebou Dar",
+    "name_he": "אבו דאר",
+    "desc_en": "The capital of Altara, a beautiful city built around canals, infamous for the Rahad slums and the culture of dueling and honor.",
+    "desc_he": "עיר הבירה של אלטארה, עיר מרהיבה הבנויה סביב תעלות מים, אך ידועה לשמצה בשכונות העוני שלה (הרהאד) ובתרבות הדו-קרב והכבוד הנוקשה שלה.",
+    "category": "capital",
+    "coords": [
+      861,
+      3168
+    ]
+  },
+  {
+    "id": "tarwins_gap",
+    "name_en": "Tarwin's Gap",
+    "name_he": "מעבר טארווין",
+    "desc_en": "A vital mountain pass between Shienar in the Borderlands and the Great Blight, a key strategic defense point against Trolloc invasions.",
+    "desc_he": "מעבר הרים חיוני בין שינאר שבארצות הספר (Borderlands) לבין השממה הגדולה, המהווה נקודת הגנה אסטרטגית מול פלישות הטרולוקים.",
+    "category": "region",
+    "coords": [
+      4232,
+      6226
+    ]
+  },
+  {
+    "id": "bandar_eban",
+    "name_en": "Bandar Eban",
+    "name_he": "בנדר אבן",
+    "desc_en": "The capital of Arad Doman, a major merchant seaport on the Aryth Ocean.",
+    "desc_he": "עיר הבירה של ארד דומאן, עיר נמל מסחרית גדולה לחוף האוקיינוס האריתי.",
+    "category": "capital",
+    "coords": [
+      3139,
+      1891
+    ]
+  },
+  {
+    "id": "tanchico",
+    "name_en": "Tanchico",
+    "name_he": "טנצ'יקו",
+    "desc_en": "The capital of Tarabon, a massive ancient city built on three peninsulas, famous for its grand palaces and canals.",
+    "desc_he": "עיר הבירה של טראבון, עיר עתיקה עצומה הבנויה על שלושה חצאי איים, המפורסמת בארמונותיה המפוארים ובתעלותיה.",
+    "category": "capital",
+    "coords": [
+      1866,
+      1870
+    ]
+  },
+  {
+    "id": "chachin",
+    "name_en": "Chachin",
+    "name_he": "צ'אצ'ין",
+    "desc_en": "The capital of Kandor, a heavily fortified city built on a steep hill in the Borderlands.",
+    "desc_he": "עיר הבירה של קנדור, עיר מבוצרת בכבדות הבנויה על גבעה תלולה בארצות הספר בצפון.",
+    "category": "capital",
+    "coords": [
+      3944,
+      4422
+    ]
+  },
+  {
+    "id": "fal_moran",
+    "name_en": "Fal Moran",
+    "name_he": "פאל מוראן",
+    "desc_en": "The capital city of Shienar, built on high ground to guard the borderlands against the Great Blight.",
+    "desc_he": "עיר הבירה של שינאר, הבנויה על גבעה נישאה כדי לשמור על ארצות הספר מפני השממה הגדולה.",
+    "category": "capital",
+    "coords": [
+      3933,
+      5811
+    ]
+  },
+  {
+    "id": "far_madding",
+    "name_en": "Far Madding",
+    "name_he": "פאר מאדינג",
+    "desc_en": "An independent, ancient city-state built in the middle of a lake, protected by a unique Ter'angreal that prevents all channeling of the One Power.",
+    "desc_he": "עיר-מדינה עתיקה ועצמאית הבנויה בלב אגם, המוגנת על ידי חפץ כוח (Ter'angreal) ייחודי המונע לחלוטין תיעול של הכוח האחד בתחומיה.",
+    "category": "capital",
+    "coords": [
+      1617,
+      4748
+    ]
+  },
+  {
+    "id": "mayene",
+    "name_en": "Mayene",
+    "name_he": "מיין",
+    "desc_en": "A rich city-state in the far southeast, famous for its oilfish trade and ruled by the First of Mayene.",
+    "desc_he": "עיר-מדינה עשירה בקצה הדרום-מזרחי, המפורסמת במסחר בשמן דגים ונשלטת על ידי 'הראשון של מיין' (First of Mayene).",
+    "category": "capital",
+    "coords": [
+      704,
+      6213
+    ]
+  },
+  {
+    "id": "lugard",
+    "name_en": "Lugard",
+    "name_he": "לוגארד",
+    "desc_en": "The capital of Murandy, a major trading hub situated at the crossroads of several trade routes, famous for its thieves and taverns.",
+    "desc_he": "עיר הבירה של מורנדי, מרכז מסחרי חשוב השוכן בצומת של מספר נתיבי סחר, וידוע לשמצה בגנביו ובפונדקיו הרבים.",
+    "category": "capital",
+    "coords": [
+      1732,
+      4059
+    ]
+  },
+  {
+    "id": "fal_dara",
+    "name_en": "Fal Dara",
+    "name_he": "פאל דארה",
+    "desc_en": "A highly disciplined fortress city in Shienar, located near Tarwin's Gap, famous for its peace and iron defense against Trollocs.",
+    "desc_he": "עיר מבצר ממושמעת ומאורגנת ביותר בשינאר, השוכנת בסמוך למעבר טארווין, ומפורסמת בהגנת הברזל של מול הטרולוקים.",
+    "category": "city",
+    "coords": [
+      4043,
+      5880
+    ]
+  },
+  {
+    "id": "shol_aran",
+    "name_en": "Shol Arbela",
+    "name_he": "שול ארבלה",
+    "desc_en": "A spired city in Arafel in the northern Borderlands.",
+    "desc_he": "עיר צריחים באראפל שבארצות הספר הצפוניות.",
+    "category": "capital",
+    "coords": [
+      3957,
+      5127
+    ]
+  },
+  {
+    "id": "canluum",
+    "name_en": "Canluum",
+    "name_he": "קנלום",
+    "desc_en": "A walled borderland city in Arafel, a vital defense post near the Mountains of Dhoom.",
+    "desc_he": "עיר ספר מוקפת חומה באראפל, המהווה עמדת הגנה חיונית סמוך להרי דום בצפון.",
+    "category": "city",
+    "coords": [
+      3875,
+      4805
+    ]
+  },
+  {
+    "id": "katar",
+    "name_en": "Katar",
+    "name_he": "קאטאר",
+    "desc_en": "A high-altitude city located in the Mountains of Mist, famous for its iron ore mines.",
+    "desc_he": "עיר הררית גבוהה השוכנת בלב הרי הערפל, הידועה במכרות הברזל העשירים שלה.",
+    "category": "city",
+    "coords": [
+      2767,
+      2714
+    ]
+  },
+  {
+    "id": "salidar",
+    "name_en": "Salidar",
+    "name_he": "סאלידאר",
+    "desc_en": "An abandoned city in Altara, chosen as the secret headquarters for the rebel Aes Sedai who opposed Elaida.",
+    "desc_he": "עיר נטושה באלטארה, שנבחרה לשמש כמפקדה הסודית של האס סדאי המורדות שהתנגדו לאליידה.",
+    "category": "city",
+    "coords": [
+      1345,
+      3351
+    ]
+  },
+  {
+    "id": "malden",
+    "name_en": "Malden",
+    "name_he": "מאלדן",
+    "desc_en": "A city in southern Altara, captured by the Shaido Aiel during the later books.",
+    "desc_he": "עיר בדרום אלטארה, שנכבשה על ידי שבט השאידו אייל במהלך הספרים המאוחרים.",
+    "category": "city",
+    "coords": [
+      1443,
+      3564
+    ]
+  },
+  {
+    "id": "godan",
+    "name_en": "Godan",
+    "name_he": "גודאן",
+    "desc_en": "A port city in Tear, situated on the southern coast near Mayene.",
+    "desc_he": "עיר נמל בממלכת טיר, השוכנת בחוף הדרומי סמוך למיין.",
+    "category": "city",
+    "coords": [
+      944,
+      6000
+    ]
+  },
+  {
+    "id": "aringill",
+    "name_en": "Aringill",
+    "name_he": "ארינגיל",
+    "desc_en": "A major port city on the River Erinin, serving as Andor's main port for trade with Cairhien.",
+    "desc_he": "עיר נמל מרכזית על נהר הארינין, המשמשת כנמל הראשי של אנדור למסחר עם קאירהיין.",
+    "category": "city",
+    "coords": [
+      2131,
+      5048
+    ]
+  },
+  {
+    "id": "mehar",
+    "name_en": "Mehar",
+    "name_he": "מהאר",
+    "desc_en": "A city in northern Saldaea in the Borderlands.",
+    "desc_he": "עיר בצפון סלדאה בארצות הספר הצפוניות.",
+    "category": "city",
+    "coords": [
+      3922,
+      3508
+    ]
+  },
+  {
+    "id": "cold_rocks_hold",
+    "name_en": "Cold Rocks Hold",
+    "name_he": "מצודת סלעים קרים",
+    "desc_en": "A major Aiel hold belonging to the Taardad Aiel, built in a rugged canyon.",
+    "desc_he": "מצודת אייל מרכזית השייכת לשבט הטאראדד אייל, הבנויה בתוך קניון סלעי קשוח.",
+    "category": "city",
+    "coords": [
+      3154,
+      6958
+    ]
+  },
+  {
+    "id": "shadar_logoth",
+    "name_en": "Shadar Logoth",
+    "name_he": "שאדאר לוגות",
+    "desc_en": "Formerly Aridhol, a ruined city consumed by a dark, non-Shadow malevolence known as Mashadar. (Contains a Waygate).",
+    "desc_he": "נקראה בעבר ארידהול; עיר עתיקה והרוסה שנבלעה על ידי ישות מרושעת ואפלה שאינה קשורה לאדון האופל, המכונה מאשאדאר (Mashadar). (מכילה שער דרכים).",
+    "category": "ruins",
+    "coords": [
+      2608,
+      3275
+    ]
+  },
+  {
+    "id": "manetheren",
+    "name_en": "Manetheren",
+    "name_he": "מנתרן",
+    "desc_en": "The mountain-home ruins of the legendary ancient nation of Manetheren, which fell in the Trolloc Wars. (Contains a Waygate).",
+    "desc_he": "חורבותיה ההרריות של המעצמה העתיקה והמפוארת מנתרן, שנפלה במלחמות הטרולוקים לאחר הגנה הירואית. (מכילה שער דרכים).",
+    "category": "ruins",
+    "coords": [
+      2426,
+      2866
+    ]
+  },
+  {
+    "id": "harad_dakar",
+    "name_en": "Harad Dakar",
+    "name_he": "חארד דקאר",
+    "desc_en": "An ancient ruined city located in Shienar near the Spine of the World.",
+    "desc_he": "עיר עתיקה והרוסה השוכנת בשינאר בסמוך לשדרת העולם.",
+    "category": "ruins",
+    "coords": [
+      3411,
+      5774
+    ]
+  },
+  {
+    "id": "stedding_tsofu",
+    "name_en": "Stedding Tsofu",
+    "name_he": "סטדינג צופו",
+    "desc_en": "One of the most famous Ogier steddings, located in Cairhien, where Rand and his companions met the Ogier elders.",
+    "desc_he": "אחד הסטדינגים המפורסמים ביותר של האוגיר, השוכן בקאירהיין. שם נפגשו רנד וחבריו עם זקני האוגיר והשתמשו בפורטל אבן.",
+    "category": "stedding",
+    "coords": [
+      2669,
+      5438
+    ]
+  },
+  {
+    "id": "stedding_saishen",
+    "name_en": "Stedding Saishen",
+    "name_he": "סטדינג סאישן",
+    "desc_en": "An Ogier stedding located in Saldaea.",
+    "desc_he": "סטדינג של אוגיר השוכן בסלדאה בצפון.",
+    "category": "stedding",
+    "coords": [
+      3610,
+      3725
+    ]
+  },
+  {
+    "id": "stedding_chiantal",
+    "name_en": "Stedding Chiantal",
+    "name_he": "סטדינג צ'יאנטל",
+    "desc_en": "An Ogier stedding located in Kandor.",
+    "desc_he": "סטדינג של אוגיר השוכן בקנדור בצפון.",
+    "category": "stedding",
+    "coords": [
+      3702,
+      4550
+    ]
+  },
+  {
+    "id": "stedding_sholoon",
+    "name_en": "Stedding Sholoon",
+    "name_he": "סטדינג שולון",
+    "desc_en": "An Ogier stedding located in Arafel.",
+    "desc_he": "סטדינג של אוגיר השוכן באראפל בצפון.",
+    "category": "stedding",
+    "coords": [
+      3777,
+      5196
+    ]
+  },
+  {
+    "id": "stedding_jinsiun",
+    "name_en": "Stedding Jinsiun",
+    "name_he": "סטדינג ג'ינסיוון",
+    "desc_en": "An Ogier stedding located in southern Andor near the Forest of Shadows.",
+    "desc_he": "סטדינג של אוגיר השוכן בדרום אנדור, בסמוך ליער הצללים.",
+    "category": "stedding",
+    "coords": [
+      2131,
+      2930
+    ]
+  },
+  {
+    "id": "stedding_shangtai",
+    "name_en": "Stedding Shangtai",
+    "name_he": "סטדינג שאנגטאי",
+    "desc_en": "A major Ogier stedding located in the Spine of the World, home of Loial. (Contains a Waygate).",
+    "desc_he": "סטדינג מרכזי וגדול של אוגיר השוכן בשדרת העולם, ביתו המקורי של לויאל (Loial). (מכיל שער דרכים).",
+    "category": "stedding",
+    "coords": [
+      1367,
+      6237
+    ]
+  },
+  {
+    "id": "stedding_jongai",
+    "name_en": "Stedding Jongai",
+    "name_he": "סטדינג ג'ונגאי",
+    "desc_en": "An Ogier stedding located in western Saldaea.",
+    "desc_he": "סטדינג של אוגיר השוכן במערב סלדאה.",
+    "category": "stedding",
+    "coords": [
+      3548,
+      3476
+    ]
+  },
+  {
+    "id": "eye_of_the_world",
+    "name_en": "The Eye of the World",
+    "name_he": "עין העולם",
+    "desc_en": "A pool of pure, untainted Saidin guarded by the Green Man in the Great Blight, crucial in the first book.",
+    "desc_he": "בריכה של סאידין (Saidin) טהור ולא מזוהם, המוגנת על ידי האיש הירוק (Green Man) במעמקי השממה הגדולה.",
+    "category": "landmark",
+    "coords": [
+      4453,
+      6523
+    ]
+  },
+  {
+    "id": "dumais_wells",
+    "name_en": "Dumai's Wells",
+    "name_he": "בארות דומאי",
+    "desc_en": "A set of water wells in the Caralain Grass, site of the historic, brutal battle between Shaido Aiel, Aes Sedai, and Asha'man.",
+    "desc_he": "קבוצת בארות מים בערבות קראלין, אתר הקרב ההיסטורי והאכזרי שבו השתמשו האשא'מן בכוחם כדי לחלץ את הדר��ון שנשבה.",
+    "category": "landmark",
+    "coords": [
+      3015,
+      5245
+    ]
+  },
+  {
+    "id": "tower_of_ghenjei",
+    "name_en": "Tower of Ghenjei",
+    "name_he": "מגדל ג'נג'אי",
+    "desc_en": "A massive, seamless tower made of shiny, unbreakable metal, serving as a portal to the realms of the Aelfinn and Eelfinn.",
+    "desc_he": "מגדל עצום ובלתי ניתן להריסה העשוי ממתכת מבריקה ללא חיבורים, המשמש כפורטל כניסה לעולמם של האלפין והאלפין (Aelfinn & Eelfinn).",
+    "category": "landmark",
+    "coords": [
+      2519,
+      3544
+    ]
+  },
+  {
+    "id": "hawkwing_statue",
+    "name_en": "Hawkwing's Statue",
+    "name_he": "פסל הוקווינג",
+    "desc_en": "A colossal monument erected in Andor, dedicated to the legendary High King Artur Hawkwing.",
+    "desc_he": "מונומנט עצום מימדים שהוקם באנדור לזכרו של המלך הגדול המיתולוגי ארתור הוקווינג.",
+    "category": "landmark",
+    "coords": [
+      2260,
+      4192
+    ]
+  },
+  {
+    "id": "black_tower",
+    "name_en": "The Black Tower",
+    "name_he": "המגדל השחור",
+    "desc_en": "The training academy and city for male channelers (Asha'man), founded by Rand al'Thor on a farm in Andor.",
+    "desc_he": "האקדמיה והעיר של המתעלים הזכרים (Asha'man), שהוקמה על ידי רנד אל'תור בחווה מבודדת באנדור.",
+    "category": "landmark",
+    "coords": [
+      2098,
+      4789
+    ]
+  },
+  {
+    "id": "alcair_dal",
+    "name_en": "Alcair Dal",
+    "name_he": "אלקאיר דאל",
+    "desc_en": "A massive canyon in the Aiel Waste, the sacred gathering place where Rand declared himself the Car'a'carn.",
+    "desc_he": "קניון עצום בשממת האייל, מקום המפגש המקודש שבו הכריז רנד אל'תור על עצמו כקאר'א'קארן (מנהיג שבטי האייל).",
+    "category": "landmark",
+    "coords": [
+      3440,
+      6833
+    ]
+  },
+  {
+    "id": "taren_ferry",
+    "name_en": "Taren Ferry",
+    "name_he": "מעבורת טארן",
+    "desc_en": "A village in the Two Rivers, famous for its ferry across the Taren River and its suspicious, clever inhabitants.",
+    "desc_he": "כפר בצפון שני הנהרות, המפורסם במעבורת שלו החוצה את נהר הטארן, ובתושביו הפקחים והחשדנים.",
+    "category": "village",
+    "coords": [
+      2440,
+      2985
+    ]
+  },
+  {
+    "id": "watch_hill",
+    "name_en": "Watch Hill",
+    "name_he": "גבעת התצפית",
+    "desc_en": "A village built on a high hill in the Two Rivers, centered around a large white stone spring.",
+    "desc_he": "כפר הבנוי על גבעה נישאה בשני הנהרות, ובמרכזו מעיין מים מאבן לבנה גדולה.",
+    "category": "village",
+    "coords": [
+      2402,
+      2991
+    ]
+  },
+  {
+    "id": "deven_ride",
+    "name_en": "Deven Ride",
+    "name_he": "מעלה דבן",
+    "desc_en": "A village in the southern part of the Two Rivers, famous for its apple orchards and deep wells.",
+    "desc_he": "כפר בחלק הדרומי של שני הנהרות, המפורסם במטעי התפוחים שלו ובבארות המים העמוקות שלו.",
+    "category": "village",
+    "coords": [
+      2300,
+      2895
+    ]
+  },
+  {
+    "id": "hinderstap",
+    "name_en": "Hinderstap",
+    "name_he": "הינדרסטאפ",
+    "desc_en": "A cursed, walled village near Murandy where the inhabitants go violently insane every night, only to wake up completely normal and resurrected the next morning.",
+    "desc_he": "כפר מקולל מוקף חומה ליד מורנדי, שבו התושבים הופכים למטורפים רצחניים בכל לילה מחדש, ומתעוררים לחיים בריאים לחלוטין בבוקר שלמחרת.",
+    "category": "village",
+    "coords": [
+      1959,
+      4057
+    ]
+  },
+  {
+    "id": "so_habor",
+    "name_en": "So Habor",
+    "name_he": "סו האבור",
+    "desc_en": "A town in northern Amadicia, haunted by ghosts and decaying food due to the thinning of the Pattern.",
+    "desc_he": "עיירה בצפון אמדיסיה, שנרדפת על ידי רוחות רפאים ומזון נרקב במהירות בעקבות היחלשות מארג הזמן (The Pattern).",
+    "category": "city",
+    "coords": [
+      1581,
+      3312
+    ]
+  },
+  {
+    "id": "seven_towers",
+    "name_en": "Seven Towers",
+    "name_he": "שבעת המגדלים",
+    "desc_en": "The ruins of the magnificent capital city of Malkier, now swallowed by the Great Blight.",
+    "desc_he": "חורבות עיר הבירה המפוארת של מלכיר האבודה, שנבלעה כעת על ידי השממה הגדולה.",
+    "category": "ruins",
+    "coords": [
+      4187,
+      5690
+    ]
+  },
+  {
+    "id": "so_eban",
+    "name_en": "So Eban",
+    "name_he": "סו אבן",
+    "desc_en": "A town in eastern Amadicia near the river Eldar.",
+    "desc_he": "עיירה במזרח אמדיסיה השוכנת סמוך לנהר האלדאר.",
+    "category": "village",
+    "coords": [
+      1259,
+      3329
+    ]
+  },
+  {
+    "id": "maderin",
+    "name_en": "Maderin",
+    "name_he": "מאדרין",
+    "desc_en": "A busy trading town located on the border between Altara and Amadicia.",
+    "desc_he": "עיירת סחר סואנת השוכנת על הגבול שבין אלטארה לאמדיסיה.",
+    "category": "city",
+    "coords": [
+      1141,
+      3393
+    ]
+  },
+  {
+    "id": "jurador",
+    "name_en": "Jurador",
+    "name_he": "ג'וראדור",
+    "desc_en": "A town in Altara, famous for its olive groves and leather manufacturing.",
+    "desc_he": "עיירה באלטארה, הידועה במטעי הזיתים שלה ובמפעלי עיבוד העורות שלה.",
+    "category": "city",
+    "coords": [
+      1055,
+      3398
+    ]
+  },
+  {
+    "id": "remen",
+    "name_en": "Remen",
+    "name_he": "רמן",
+    "desc_en": "A river town in Murandy, where Perrin met Gaul the Aielman and saved him from a cage.",
+    "desc_he": "עיירת נהר במורנדי, שבה פגש פרין לראשונה את גאול (Gaul) האייל והציל אותו מכלוב תלוי.",
+    "category": "city",
+    "coords": [
+      1690,
+      3852
+    ]
+  },
+  {
+    "id": "samara",
+    "name_en": "Samara",
+    "name_he": "סמארה",
+    "desc_en": "A city in Ghealdan situated on the River Eldar, where Nynaeve and Elayne met the Prophet.",
+    "desc_he": "עיירה בגהאלדן השוכנת על נהר האלדאר, שבה נפגשו נינאב ואליין לראשונה עם 'הנביא'.",
+    "category": "city",
+    "coords": [
+      1720,
+      3078
+    ]
+  },
+  {
+    "id": "two_rivers",
+    "name_en": "The Two Rivers",
+    "name_he": "שני הנהרות",
+    "desc_en": "An isolated district in southwestern Andor, bounded by the Mountains of Mist and two rivers (Taren and White). Famous for its bowmen, wool, and tabac.",
+    "desc_he": "מחוז מבודד בדרום-מערב אנדור, המוקף על ידי הרי הערפל ושני נהרות (הטארן והנהר הלבן). מפורסם בקשתים המעולים שלו, בצמר ובטבק משובח.",
+    "category": "district",
+    "coords": [
+      2469,
+      3095
+    ]
+  },
+  {
+    "id": "andor_region",
+    "name_en": "Andor Kingdom",
+    "name_he": "אנדור הממלכה",
+    "desc_en": "The largest and most influential kingdom in the Westlands, famous for its strictly female succession and gold-accented architecture.",
+    "desc_he": "הממלכה הגדולה ובעלת ההשפעה הגבוהה ביותר בארצות המערב. מפורסמת בשושלת המלכותית הנשית שלה ובארכיטקטורה המפוארת בעלת עיטורי הזהב.",
+    "category": "region",
+    "coords": [
+      2352,
+      4241
+    ]
+  },
+  {
+    "id": "cairhien_region",
+    "name_en": "Cairhien Kingdom",
+    "name_he": "קאירהיין הממלכה",
+    "desc_en": "A proud eastern kingdom built on strict military organization, tall stone towers, and the dangerous 'Game of Houses' (Daes Dae'mar).",
+    "desc_he": "ממלכה מזרחית גאה הבנויה על סדר וארגון צבאי נוקשה, מגדלי אבן גבוהים, ותרבות פוליטית מסוכנת של 'משחק הבתים' (Daes Dae'mar).",
+    "category": "region",
+    "coords": [
+      2535,
+      5690
+    ]
+  },
+  {
+    "id": "tear_region",
+    "name_en": "Tear Kingdom",
+    "name_he": "טיר הממלכה",
+    "desc_en": "A powerful southern coastal kingdom famous for its wealth, olive trade, the Stone fortress, and its deep distrust of Aes Sedai channelers.",
+    "desc_he": "ממלכת חוף דרומית חזקה ועשירה, המפורסמת במסחר בשמן זית ובמצודת האבן האדירה שלה. ידועה בחוסר האמון העמוק שלה באס סדאי.",
+    "category": "region",
+    "coords": [
+      1212,
+      5357
+    ]
+  },
+  {
+    "id": "illian_region",
+    "name_en": "Illian Kingdom",
+    "name_he": "איליאן הממלכה",
+    "desc_en": "A major southern maritime kingdom and trade hub, traditional rival to Tear, ruled by the King and the Council of Nine.",
+    "desc_he": "ממלכה ימית דרומית גדולה ומרכז סחר עולמי. יריבתה ההיסטורית של טיר, הנשלטת על ידי המלך ומועצת התשעה.",
+    "category": "region",
+    "coords": [
+      1063,
+      4403
+    ]
+  },
+  {
+    "id": "shienar_region",
+    "name_en": "Shienar Kingdom",
+    "name_he": "שינאר הממלכה",
+    "desc_en": "The easternmost of the Borderland nations, heavily fortified against the Great Blight, famous for its disciplined heavy cavalry and honor.",
+    "desc_he": "הממלכה המזרחית ביותר בארצות הספר בצפון, המבוצרת בכבדות מול השממה הגדולה. ידועה בלוחמי הפרשים הכבדים והממושמעים שלה.",
+    "category": "region",
+    "coords": [
+      3808,
+      5630
+    ]
+  },
+  {
+    "id": "arafel_region",
+    "name_en": "Arafel Kingdom",
+    "name_he": "אראפל הממלכה",
+    "desc_en": "A northern Borderland kingdom whose warriors are famous for wearing braided hair with bells and fighting with two swords.",
+    "desc_he": "ממלכת ספר צפונית שלוחמיה מפורסמים בלחימה בשתי חרבות ובענידת צמות מרובות עם פעמונים קטנים בשערם.",
+    "category": "region",
+    "coords": [
+      3868,
+      5069
+    ]
+  },
+  {
+    "id": "kandor_region",
+    "name_en": "Kandor Kingdom",
+    "name_he": "קנדור הממלכה",
+    "desc_en": "A northern Borderland nation famous for its wealthy merchant guilds, deep trade networks, and sturdy fortress towers guarding the Blight.",
+    "desc_he": "ממלכת ספר צפונית הידועה בגילדות הסוחרים העשירות שלה, ברשתות המסחר הענפות, ובמגדלי המבצר החסונים השומרים על הגבול.",
+    "category": "region",
+    "coords": [
+      3824,
+      4322
+    ]
+  },
+  {
+    "id": "saldaea_region",
+    "name_en": "Saldaea Kingdom",
+    "name_he": "סלדאה הממלכה",
+    "desc_en": "The largest Borderland nation, located in the northwest, famous for its deadly light cavalry, eagle-nosed warriors, and fierce combat skills.",
+    "desc_he": "ממלכת הספר הגדולה ביותר בצפון-מערב. מפורסמת בפרשים הקלים והקטלניים שלה, בלוחמים בעלי מראה הנשר ובאומנות לחימה פראית.",
+    "category": "region",
+    "coords": [
+      3762,
+      3716
+    ]
+  },
+  {
+    "id": "ghealdan_region",
+    "name_en": "Ghealdan Kingdom",
+    "name_he": "גהאלדן הממלכה",
+    "desc_en": "A small southern kingdom caught in chaos due to the uprisings of the Prophet of the Dragon.",
+    "desc_he": "ממלכה דרומית קטנה שנקלעה לכאוס פוליטי וצבאי עמוק בעקבות מרידותיו של 'הנביא' של הדרקון.",
+    "category": "region",
+    "coords": [
+      1833,
+      3013
+    ]
+  },
+  {
+    "id": "amadicia_region",
+    "name_en": "Amadicia Kingdom",
+    "name_he": "אמדיסיה הממלכה",
+    "desc_en": "A southern kingdom historically controlled by the Children of the Light (Whitecloaks), where all channeling of the One Power is banned.",
+    "desc_he": "ממלכה דרומית הנשלטת בפועל על ידי 'ילדי האור' (הגלימות הלבנות). כל תיעול או קשר לכוח האחד אסור בה לחלוטין.",
+    "category": "region",
+    "coords": [
+      1353,
+      2997
+    ]
+  },
+  {
+    "id": "altara_region",
+    "name_en": "Altara Kingdom",
+    "name_he": "אלטארה הממלכה",
+    "desc_en": "A highly decentralized southern kingdom where regional lords hold more power than the throne in Ebou Dar.",
+    "desc_he": "ממלכה דרומית מבוזרת מאוד שבה ללורדים המקומיים יש כוח והשפעה רבים יותר מאשר לכס המלכות באבו דאר.",
+    "category": "region",
+    "coords": [
+      1270,
+      3685
+    ]
+  },
+  {
+    "id": "murandy_region",
+    "name_en": "Murandy Kingdom",
+    "name_he": "מורנדי הממלכה",
+    "desc_en": "A central kingdom of fractured, independent estates where the nobles rarely align except to oppose foreign influence.",
+    "desc_he": "ממלכה מרכזית המורכבת מאחוזות ואזורים עצמאיים ומפולגים, שבהם האצילים כמעט ולא מתאחדים אלא רק כדי להתנגד להשפעה זרה.",
+    "category": "region",
+    "coords": [
+      1600,
+      4200
+    ]
+  },
+  {
+    "id": "tarabon_region",
+    "name_en": "Tarabon Kingdom",
+    "name_he": "טראבון הממלכה",
+    "desc_en": "An ancient western nation on the Aryth Ocean, famous for its masked assembly, dye manufacturing, and historic rivalry with Arad Doman.",
+    "desc_he": "ממלכה מערבית עתיקה לחוף האוקיינוס האריתי, המפורסמת בתרבות עטיית המסכות שלה, בייצור צבעים משובחים, ויריבותה ארוכת השנים עם ארד דומאן.",
+    "category": "region",
+    "coords": [
+      1864,
+      2175
+    ]
+  },
+  {
+    "id": "arad_doman_region",
+    "name_en": "Arad Doman Kingdom",
+    "name_he": "ארד דומאן הממלכה",
+    "desc_en": "A powerful merchant kingdom on the western coast, famous for its highly skilled trade negotiators and Domani fashions.",
+    "desc_he": "ממלכת סוחרים חזקה בחוף המערבי, המפורסמת במנהלי המשא ומתן המעולים שלה ובאופנה המקומית המהודרת של דומאן.",
+    "category": "region",
+    "coords": [
+      3076,
+      2435
+    ]
+  },
+  {
+    "id": "aiel_waste",
+    "name_en": "The Aiel Waste",
+    "name_he": "שממת האייל",
+    "desc_en": "A vast, scorching desert beyond the Spine of the World, known as the 'Three-Fold Land' by the fierce Aiel clans who inhabit it.",
+    "desc_he": "מדבר רחב ידיים וצחיח מעבר לשדרת העולם. מכונה 'הארץ המשולשת' בפי שבטי האייל הקשוחים השוכנים בו.",
+    "category": "region",
+    "coords": [
+      2221,
+      6779
+    ]
+  },
+  {
+    "id": "great_blight",
+    "name_en": "The Great Blight",
+    "name_he": "השממה הגדולה",
+    "desc_en": "The corrupted northern wasteland of decay and shadow-beasts that spans the entire continent, ruled from Shayol Ghul.",
+    "desc_he": "השממה הצפונית המושחתת והרקובה המשתרעת על פני היבשת כולה, רוויה ביצורי צל ונשלטת מתוך הר האפר שאיול גול.",
+    "category": "region",
+    "coords": [
+      4345,
+      4989
+    ]
+  },
+  {
+    "id": "mountains_of_mist",
+    "name_en": "Mountains of Mist",
+    "name_he": "הרי הערפל",
+    "desc_en": "A massive, towering mountain range along the western edge of the continent, rich in iron ore and home to many ancient ruins.",
+    "desc_he": "רכס הרים עצום וגבוה לאורך הקצה המערבי של היבשת, עשיר במכרות ברזל ומכיל חורבות עתיקות רבות.",
+    "category": "region",
+    "coords": [
+      2283,
+      2790
+    ]
+  },
+  {
+    "id": "mashong_stedding",
+    "name_en": "Mashong stedding",
+    "name_he": "סטדינג משונג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2855,
+      6107
+    ]
+  },
+  {
+    "id": "forest_of_shadows",
+    "name_en": "Forest Of Shadows",
+    "name_he": "יער הצללים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2213,
+      3011
+    ]
+  },
+  {
+    "id": "brytan",
+    "name_en": "Brytan",
+    "name_he": "בריטן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1306,
+      3422
+    ]
+  },
+  {
+    "id": "quchen_stedding",
+    "name_en": "Quchen stedding",
+    "name_he": "סטדינג קיצ'ן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4136,
+      6417
+    ]
+  },
+  {
+    "id": "sanshen_stedding",
+    "name_en": "Sanshen stedding",
+    "name_he": "סטדינג סנשן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4075,
+      6343
+    ]
+  },
+  {
+    "id": "cameron_caan",
+    "name_en": "Cameron caan",
+    "name_he": "קמרון קאן",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4002,
+      6187
+    ]
+  },
+  {
+    "id": "mos_shirare",
+    "name_en": "Mos shirare",
+    "name_he": "מוס שירייר",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3963,
+      6090
+    ]
+  },
+  {
+    "id": "fal_sion",
+    "name_en": "Fal Sion",
+    "name_he": "פאל סיון",
+    "category": "city",
+    "desc_en": "Fal Sion is a city-fortress in Shienar",
+    "desc_he": "מבצר/עיר בשייניר",
+    "coords": [
+      3988,
+      6032
+    ]
+  },
+  {
+    "id": "ankor_dail",
+    "name_en": "Ankor Dail",
+    "name_he": "אנקור דייל",
+    "category": "city",
+    "desc_en": "city-fortress in Shienar",
+    "desc_he": "עיר מבצר",
+    "coords": [
+      3837,
+      6188
+    ]
+  },
+  {
+    "id": "mallard_s_hill",
+    "name_en": "Mallard's Hill",
+    "name_he": "גבעת מלארד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3822,
+      5970
+    ]
+  },
+  {
+    "id": "oak_water",
+    "name_en": "Oak Water",
+    "name_he": "אוק ווטר",
+    "category": "village",
+    "desc_en": "Oak Water is a village in the Borderlands. It is five miles east of Renald Fanwar's farm",
+    "desc_he": "הכפר ממוקם באזור הגבולות, כ-5 מייל מזרחית לחווה של רנאלד פנוואר",
+    "coords": [
+      3784,
+      5998
+    ]
+  },
+  {
+    "id": "malkier",
+    "name_en": "Malkier",
+    "name_he": "מלקייר",
+    "category": "district",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4251,
+      5832
+    ]
+  },
+  {
+    "id": "niamh_passes",
+    "name_en": "Niamh Passes",
+    "name_he": "מעברי ניאם",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3801,
+      6428
+    ]
+  },
+  {
+    "id": "handu_stedding",
+    "name_en": "Handu stedding",
+    "name_he": "סטדינג האנדו",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3699,
+      6200
+    ]
+  },
+  {
+    "id": "medo",
+    "name_en": "Medo",
+    "name_he": "מדו",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4037,
+      5717
+    ]
+  },
+  {
+    "id": "fal_eisen",
+    "name_en": "Fal Eisen",
+    "name_he": "פאל אייסן",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3996,
+      5562
+    ]
+  },
+  {
+    "id": "the_valley_of_thakand_ar",
+    "name_en": "The Valley of Thakand'ar",
+    "name_he": "עמק ט'אקנד'אר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4432,
+      5432
+    ]
+  },
+  {
+    "id": "shanjing_stedding",
+    "name_en": "Shanjing Stedding",
+    "name_he": "סטדינג שנג'ינג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4097,
+      5386
+    ]
+  },
+  {
+    "id": "tanhal_stading",
+    "name_en": "Tanhal Stading",
+    "name_he": "סטדינג טנהאל",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3912,
+      5378
+    ]
+  },
+  {
+    "id": "jakanda",
+    "name_en": "Jakanda",
+    "name_he": "ג'דנדה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4014,
+      5342
+    ]
+  },
+  {
+    "id": "field_of_merrilor",
+    "name_en": "Field Of Merrilor",
+    "name_he": "שדה מרילור",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3722,
+      5281
+    ]
+  },
+  {
+    "id": "erinin_river",
+    "name_en": "Erinin river",
+    "name_he": "נהר ארנין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3706,
+      5768
+    ]
+  },
+  {
+    "id": "field_of_talidar",
+    "name_en": "Field Of talidar",
+    "name_he": "שדה טלידר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3532,
+      5933
+    ]
+  },
+  {
+    "id": "nurshang_stadding",
+    "name_en": "Nurshang stadding",
+    "name_he": "סטדינג נורשנג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3577,
+      5762
+    ]
+  },
+  {
+    "id": "gorien_springs",
+    "name_en": "Gorien Springs",
+    "name_he": "מעיינות גוֹרִיאֵן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3631,
+      5087
+    ]
+  },
+  {
+    "id": "tifan_s_well",
+    "name_en": "Tifan's Well",
+    "name_he": "הבאר של טיפאן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3726,
+      4971
+    ]
+  },
+  {
+    "id": "firchon_pass",
+    "name_en": "Firchon pass",
+    "name_he": "מצר פירצון",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3926,
+      4967
+    ]
+  },
+  {
+    "id": "silverwall_keeps",
+    "name_en": "Silverwall keeps",
+    "name_he": "מבצר סילברוול",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3855,
+      4899
+    ]
+  },
+  {
+    "id": "manala",
+    "name_en": "Manala",
+    "name_he": "מנלה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3914,
+      4685
+    ]
+  },
+  {
+    "id": "south_hill",
+    "name_en": "South Hill",
+    "name_he": "גבעת הדרום",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3875,
+      4625
+    ]
+  },
+  {
+    "id": "ravinda",
+    "name_en": "Ravinda",
+    "name_he": "רָאבִינְדָּה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3929,
+      4615
+    ]
+  },
+  {
+    "id": "mountains_of_dhoom",
+    "name_en": "Mountains of dhoom",
+    "name_he": "הָרֵי דוּם",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4118,
+      4596
+    ]
+  },
+  {
+    "id": "the_blight",
+    "name_en": "The Blight",
+    "name_he": "המצרים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4356,
+      4103
+    ]
+  },
+  {
+    "id": "south_mettler",
+    "name_en": "South mettler",
+    "name_he": "דרום מטל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3968,
+      4201
+    ]
+  },
+  {
+    "id": "plain_of_lances",
+    "name_en": "Plain of lances",
+    "name_he": "מישור החניתות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3901,
+      4118
+    ]
+  },
+  {
+    "id": "denhuir",
+    "name_en": "Denhuir",
+    "name_he": "דנהוויר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3685,
+      4301
+    ]
+  },
+  {
+    "id": "maradon",
+    "name_en": "Maradon",
+    "name_he": "מאראדון",
+    "category": "capital",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4005,
+      3665
+    ]
+  },
+  {
+    "id": "irinjavar",
+    "name_en": "Irinjavar",
+    "name_he": "אירינג'וואר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "השם מתייחס לאזור או לכפר בסלדיאה שבו התנהל הקרב ההיסטורי בין צבאו של מאזְרים טאים לבין הלורד דַבְראם באשֶר",
+    "coords": [
+      3900,
+      3897
+    ]
+  },
+  {
+    "id": "sidona",
+    "name_en": "Sidona",
+    "name_he": "סידונה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3806,
+      3642
+    ]
+  },
+  {
+    "id": "bashere",
+    "name_en": "Bashere",
+    "name_he": "בָּאשִׁיר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3815,
+      3493
+    ]
+  },
+  {
+    "id": "kayacun",
+    "name_en": "Kayacun",
+    "name_he": "קָיָאקוּן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3642,
+      3011
+    ]
+  },
+  {
+    "id": "world_s_end",
+    "name_en": "World's End",
+    "name_he": "סוף העולם",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3779,
+      2911
+    ]
+  },
+  {
+    "id": "the_dead_sea",
+    "name_en": "The dead Sea",
+    "name_he": "ים המוות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4243,
+      2206
+    ]
+  },
+  {
+    "id": "aile_dashar",
+    "name_en": "Aile Dashar",
+    "name_he": "איל דשאר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "זהו ארכיפלג (קבוצת איים) מבודד הממוקם בצפון האוקיינוס האריתי (Aryth Ocean), מצפון-מערב לממלכת אראד דומאן ודרומית ל\"ים המת\" (Dead Sea). האיים נמצאים בשליטתם של \"עמי הים\" (האת'אן מייר) ובני האמאיאר (Amayar)",
+    "coords": [
+      3884,
+      1047
+    ]
+  },
+  {
+    "id": "aryth_ocean",
+    "name_en": "Aryth Ocean",
+    "name_he": "אוקיינוס ארית",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3612,
+      1643
+    ]
+  },
+  {
+    "id": "chosium_stedding",
+    "name_en": "Chosium stedding",
+    "name_he": "סטדינג צ'וסיום",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3353,
+      3305
+    ]
+  },
+  {
+    "id": "lietiang_stedding",
+    "name_en": "Lietiang stedding",
+    "name_he": "סטדינג לייטיאנג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3356,
+      3740
+    ]
+  },
+  {
+    "id": "feindu_stedding",
+    "name_en": "Feindu stedding",
+    "name_he": "סטדינג פיינדו",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3563,
+      4019
+    ]
+  },
+  {
+    "id": "shanjin_stedding",
+    "name_en": "Shanjin stedding",
+    "name_he": "סטדינג שנג'ין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3374,
+      4251
+    ]
+  },
+  {
+    "id": "tsochan_stedding",
+    "name_en": "Tsochan stedding",
+    "name_he": "סטדינג טסוצ'אן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3381,
+      3906
+    ]
+  },
+  {
+    "id": "shamendar_stedding",
+    "name_en": "Shamendar stedding",
+    "name_he": "סטדינג שמנדאר",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3261,
+      3709
+    ]
+  },
+  {
+    "id": "taishin_stedding",
+    "name_en": "Taishin stedding",
+    "name_he": "סטדינג טאיישין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3135,
+      3584
+    ]
+  },
+  {
+    "id": "ivo_river",
+    "name_en": "Ivo river",
+    "name_he": "נהר איבו",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3213,
+      3865
+    ]
+  },
+  {
+    "id": "seleisin",
+    "name_en": "Seleisin",
+    "name_he": "סליסין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2934,
+      3620
+    ]
+  },
+  {
+    "id": "chinden_stedding",
+    "name_en": "Chinden Stedding",
+    "name_he": "סטדינג צ'ינדן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3393,
+      2952
+    ]
+  },
+  {
+    "id": "mintai_stedding",
+    "name_en": "Mintai Stedding",
+    "name_he": "סטדינג מינטאי",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3217,
+      2552
+    ]
+  },
+  {
+    "id": "wechen_stedding",
+    "name_en": "Wechen Stedding",
+    "name_he": "סטדינג וונצ'ן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3216,
+      2779
+    ]
+  },
+  {
+    "id": "tsofan_stedding",
+    "name_en": "Tsofan Stedding",
+    "name_he": "סטדינג טסופאן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3081,
+      2821
+    ]
+  },
+  {
+    "id": "yandar_stedding",
+    "name_en": "Yandar Stedding",
+    "name_he": "סטדינג יאנדר",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3008,
+      3019
+    ]
+  },
+  {
+    "id": "natrin_s_barrow",
+    "name_en": "Natrin's barrow",
+    "name_he": "תל נטרין",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3023,
+      2827
+    ]
+  },
+  {
+    "id": "solanje",
+    "name_en": "Solanje",
+    "name_he": "סולאנג'",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3174,
+      2352
+    ]
+  },
+  {
+    "id": "coron_ford",
+    "name_en": "Coron Ford",
+    "name_he": "קורון פורד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2939,
+      2383
+    ]
+  },
+  {
+    "id": "kandelmar",
+    "name_en": "Kandelmar",
+    "name_he": "קנדלמר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2796,
+      2295
+    ]
+  },
+  {
+    "id": "athuro_s_orchard",
+    "name_en": "Athuro's orchard",
+    "name_he": "בוסתן אתורו",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2730,
+      2190
+    ]
+  },
+  {
+    "id": "tobin_s_hollow",
+    "name_en": "Tobin's hollow",
+    "name_he": "נקיק טובין",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2662,
+      2060
+    ]
+  },
+  {
+    "id": "toman_head",
+    "name_en": "Toman Head",
+    "name_he": "כף טומאן",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2609,
+      1893
+    ]
+  },
+  {
+    "id": "atuan_s_mill",
+    "name_en": "Atuan's mill",
+    "name_he": "טחנת אטואן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "עיירה קטנה הממוקמת על חצי האי כף טומאן, במרחק כמה ימי רכיבה מזרחית מהעיר פאלמה",
+    "coords": [
+      2535,
+      1915
+    ]
+  },
+  {
+    "id": "almoth_plain",
+    "name_en": "Almoth plain",
+    "name_he": "מישורי אלמות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2645,
+      2306
+    ]
+  },
+  {
+    "id": "paerish_swar_darkwood",
+    "name_en": "Paerish Swar darkwood",
+    "name_he": "היער האפל",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2524,
+      2627
+    ]
+  },
+  {
+    "id": "lake_somal",
+    "name_en": "Lake Somal",
+    "name_he": "אגם סומאל",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2572,
+      2825
+    ]
+  },
+  {
+    "id": "darluna",
+    "name_en": "Darluna",
+    "name_he": "דארלונה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2917,
+      2139
+    ]
+  },
+  {
+    "id": "compfrey",
+    "name_en": "Compfrey",
+    "name_he": "קומפרי",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2654,
+      2955
+    ]
+  },
+  {
+    "id": "madan_stedding",
+    "name_en": "Madan stedding",
+    "name_he": "סטדינג מדן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2246,
+      2602
+    ]
+  },
+  {
+    "id": "alcruna",
+    "name_en": "alcruna",
+    "name_he": "אלקרונה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2146,
+      2513
+    ]
+  },
+  {
+    "id": "maracru",
+    "name_en": "Maracru",
+    "name_he": "מראקרו",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2048,
+      2340
+    ]
+  },
+  {
+    "id": "aile_somera",
+    "name_en": "Aile Somera",
+    "name_he": "איל סומרה",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "מדובר בקבוצת איים מבודדת הממוקמת באוקיינוס האריתי, מערבית לכף טומאן. איים אלו נמצאים בשליטת \"עמי הים\" (האת'אן מייר) ובני האמאיאר השוכנים בהם",
+    "coords": [
+      2422,
+      905
+    ]
+  },
+  {
+    "id": "cantorin",
+    "name_en": "Cantorin",
+    "name_he": "קנטורין",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "משמש כנמל מסחר ובסיס חשוב, אשר נכבש בהמשך על ידי כוחות הסינצ'נים",
+    "coords": [
+      2519,
+      906
+    ]
+  },
+  {
+    "id": "aile_jafar",
+    "name_en": "Aile jafar",
+    "name_he": "איל ג'פר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1647,
+      1439
+    ]
+  },
+  {
+    "id": "dantora",
+    "name_en": "Dantora",
+    "name_he": "דנטורה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1712,
+      1377
+    ]
+  },
+  {
+    "id": "shangloon_stdding",
+    "name_en": "Shangloon stdding",
+    "name_he": "סטדינג שנגלון",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1866,
+      2753
+    ]
+  },
+  {
+    "id": "elmora",
+    "name_en": "Elmora",
+    "name_he": "אלמורה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1724,
+      2336
+    ]
+  },
+  {
+    "id": "serana",
+    "name_en": "Serana",
+    "name_he": "סרנה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1580,
+      2438
+    ]
+  },
+  {
+    "id": "nassad",
+    "name_en": "Nassad",
+    "name_he": "נסאד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1507,
+      2552
+    ]
+  },
+  {
+    "id": "shadoon_stedding",
+    "name_en": "Shadoon stedding",
+    "name_he": "סטדינג שאדון",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1403,
+      2354
+    ]
+  },
+  {
+    "id": "mardecin",
+    "name_en": "Mardecin",
+    "name_he": "מרדסין",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "עיירה השוכנת בממלכת אמאדיסיה (Amadicia), סמוך לגבולה המערבי עם טאראבון, ובה מוצב חיל מצב של \"ילדי האור\"",
+    "coords": [
+      1472,
+      2669
+    ]
+  },
+  {
+    "id": "almizar",
+    "name_en": "Almizar",
+    "name_he": "אלמיזאר",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1371,
+      2631
+    ]
+  },
+  {
+    "id": "amador",
+    "name_en": "Amador",
+    "name_he": "אמאדור",
+    "category": "capital",
+    "desc_en": "",
+    "desc_he": "עיר הבירה של ממלכת אמאדיסיה, וחשוב מכך – היא שימשה כמטה המרכזי והלב הפועם של מסדר \"ילדי האור\" (הגלימות הלבנות). בעיר שוכן מבצר האור (Fortress of the Light), ממנו ניהל המפקד העליון של המסדר את ענייניו",
+    "coords": [
+      1448,
+      2791
+    ]
+  },
+  {
+    "id": "the_shadow_coast",
+    "name_en": "The shadow coast",
+    "name_he": "חוף הצללים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "חבל ארץ הררי, פראי ושומם ברובו, הממוקם בפינה הדרום-מערבית הקיצונית של היבשת. האזור גובל בממלכות טאראבון ואמאדיסיה, אך אף מדינה אינה טוענת עליו לבעלות או מנסה ליישב אותו",
+    "coords": [
+      1272,
+      2254
+    ]
+  },
+  {
+    "id": "windbiters_finger",
+    "name_en": "Windbiters finger",
+    "name_he": "אצבע נושך הרוח",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      921,
+      1952
+    ]
+  },
+  {
+    "id": "the_sea_of_storms",
+    "name_en": "The sea of storms",
+    "name_he": "ים הסופות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      688,
+      2172
+    ]
+  },
+  {
+    "id": "qaim",
+    "name_en": "Qaim",
+    "name_he": "קאים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      576,
+      2549
+    ]
+  },
+  {
+    "id": "tremalking",
+    "name_en": "Tremalking",
+    "name_he": "טרמלקינג",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      680,
+      1185
+    ]
+  },
+  {
+    "id": "sa_angreal_male",
+    "name_en": "Sa'angreal male",
+    "name_he": "סא'אנגריאל הזכרי",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      809,
+      1191
+    ]
+  },
+  {
+    "id": "sa_angreal_female",
+    "name_en": "Sa'angreal female",
+    "name_he": "סא'אנגריאל הנקבי",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2925,
+      5500
+    ]
+  },
+  {
+    "id": "bellon",
+    "name_en": "Bellon",
+    "name_he": "בלון",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1434,
+      2864
+    ]
+  },
+  {
+    "id": "sienda",
+    "name_en": "Sienda",
+    "name_he": "סיינדה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1418,
+      2967
+    ]
+  },
+  {
+    "id": "jaramel",
+    "name_en": "Jaramel",
+    "name_he": "ג'ארמל",
+    "category": "ruins",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1599,
+      2896
+    ]
+  },
+  {
+    "id": "cosamelle",
+    "name_en": "Cosamelle",
+    "name_he": "קוזמל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1718,
+      2924
+    ]
+  },
+  {
+    "id": "abila",
+    "name_en": "abila",
+    "name_he": "אבילה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1633,
+      3052
+    ]
+  },
+  {
+    "id": "sidon",
+    "name_en": "Sidon",
+    "name_he": "סידון",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1789,
+      3220
+    ]
+  },
+  {
+    "id": "bethal",
+    "name_en": "Bethal",
+    "name_he": "בת'אל",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "עיירה בגודל בינוני השוכנת בממלכת גהלדן (Ghealdan). העיירה מאופיינת בכך שרוב המבנים בה בעלי גגות צפחה",
+    "coords": [
+      1773,
+      3106
+    ]
+  },
+  {
+    "id": "jarra",
+    "name_en": "Jarra",
+    "name_he": "ג'ארה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1892,
+      2900
+    ]
+  },
+  {
+    "id": "jehannah",
+    "name_en": "Jehannah",
+    "name_he": "ג'יהאנה",
+    "category": "capital",
+    "desc_en": "",
+    "desc_he": "גהלדן (Ghealdan) והיא משמשת כמקום מגוריה הרשמי של המלכה אליאנדרה. העיר נבנתה על חורבותיה של העיר העתיקה שנאיין (Shanaine), שהייתה שייכת בעבר לממלכת מנת'רן, והיא שוכנת על גדות נהר הבורן",
+    "coords": [
+      1944,
+      3031
+    ]
+  },
+  {
+    "id": "nor_shasen",
+    "name_en": "Nor shasen",
+    "name_he": "ור צ'אסן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "כפר נמל קטן הממוקם בדרום ממלכת אלטארה, מזרחית לעיר אבו דאר",
+    "coords": [
+      811,
+      3263
+    ]
+  },
+  {
+    "id": "the_farm",
+    "name_en": "The farm",
+    "name_he": "החווה (של הקרובות)",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      886,
+      3276
+    ]
+  },
+  {
+    "id": "so_tehar",
+    "name_en": "so tehar",
+    "name_he": "סו טהאר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      934,
+      3241
+    ]
+  },
+  {
+    "id": "weesin",
+    "name_en": "weesin",
+    "name_he": "וויסין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      967,
+      3221
+    ]
+  },
+  {
+    "id": "alkindar",
+    "name_en": "Alkindar",
+    "name_he": "אלקינדאר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "עיירה השוכנת בממלכת אלטארה, על הגדה המערבית של נהר האלדאר, על \"הדרך הצפונית הגדולה\" (Great North Road) המחברת בין אבו דאר ללוגארד",
+    "coords": [
+      1001,
+      3251
+    ]
+  },
+  {
+    "id": "coramen",
+    "name_en": "Coramen",
+    "name_he": "קוראמן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1023,
+      3358
+    ]
+  },
+  {
+    "id": "runnien_crossing",
+    "name_en": "Runnien crossing",
+    "name_he": "מעבר רוניין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1084,
+      3402
+    ]
+  },
+  {
+    "id": "mosra",
+    "name_en": "Mosra",
+    "name_he": "מוסרה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1114,
+      3275
+    ]
+  },
+  {
+    "id": "soremaine",
+    "name_en": "Soremaine",
+    "name_he": "סורמיין",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1184,
+      3465
+    ]
+  },
+  {
+    "id": "mardoon_stedding",
+    "name_en": "Mardoon stedding",
+    "name_he": "סטדינג מרדון",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1026,
+      2730
+    ]
+  },
+  {
+    "id": "venir_mountains",
+    "name_en": "Venir mountains",
+    "name_he": "הרי וניר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      913,
+      3528
+    ]
+  },
+  {
+    "id": "arran_head",
+    "name_en": "Arran head",
+    "name_he": "כף אראן",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      889,
+      3705
+    ]
+  },
+  {
+    "id": "kabal_deep",
+    "name_en": "Kabal deep",
+    "name_he": "מעמקי קבאל",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1008,
+      3908
+    ]
+  },
+  {
+    "id": "nemarellin_mountains",
+    "name_en": "Nemarellin Mountains",
+    "name_he": "הרי נמרלין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      933,
+      4129
+    ]
+  },
+  {
+    "id": "moisen",
+    "name_en": "Moisen",
+    "name_he": "מויזן",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1375,
+      3769
+    ]
+  },
+  {
+    "id": "cormaed",
+    "name_en": "cormaed",
+    "name_he": "קורמייד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1434,
+      3312
+    ]
+  },
+  {
+    "id": "sehar",
+    "name_en": "sehar",
+    "name_he": "סהאר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1458,
+      3379
+    ]
+  },
+  {
+    "id": "dhallin_forrest",
+    "name_en": "Dhallin Forrest",
+    "name_he": "יער דהלין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1511,
+      3206
+    ]
+  },
+  {
+    "id": "boannda",
+    "name_en": "boannda",
+    "name_he": "בואנדה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "בואנדה היא עיר גדולה יחסית השוכנת בממלכת גהלדן (Ghealdan). היא ממוקמת בנקודת המפגש שבה נהר הבורן (River Boern) נשפך אל נהר האלדאר (River Eldar), ממש על גבולה של גהלדן עם אמאדיסיה. העיר מתאפיינת בשלושה מגדלים וארמון קטן",
+    "coords": [
+      1638,
+      3261
+    ]
+  },
+  {
+    "id": "ionin_spring",
+    "name_en": "Ionin spring",
+    "name_he": "מעיין יונין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "זהו כפר קטן השוכן בממלכת אלטארה",
+    "coords": [
+      1570,
+      3568
+    ]
+  },
+  {
+    "id": "marella",
+    "name_en": "Marella",
+    "name_he": "מרלה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1639,
+      3786
+    ]
+  },
+  {
+    "id": "fyall",
+    "name_en": "fyall",
+    "name_he": "פיאל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1620,
+      3708
+    ]
+  },
+  {
+    "id": "tallen",
+    "name_en": "Tallen",
+    "name_he": "טאלאן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1664,
+      3671
+    ]
+  },
+  {
+    "id": "samaha",
+    "name_en": "samaha",
+    "name_he": "סמהאה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1674,
+      3625
+    ]
+  },
+  {
+    "id": "willar",
+    "name_en": "Willar",
+    "name_he": "וילאר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1740,
+      3484
+    ]
+  },
+  {
+    "id": "stone_portal_1",
+    "name_en": "Stone portal 1",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1717,
+      3568
+    ]
+  },
+  {
+    "id": "stone_portal",
+    "name_en": "Stone portal",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2598,
+      1991
+    ]
+  },
+  {
+    "id": "stone_portal_1780123891424",
+    "name_en": "Stone portal",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3685,
+      5909
+    ]
+  },
+  {
+    "id": "stone_portal_1780123919780",
+    "name_en": "Stone portal",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3103,
+      5756
+    ]
+  },
+  {
+    "id": "damona_mountrains",
+    "name_en": "Damona Mountrains",
+    "name_he": "ערי דמונה",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1373,
+      3928
+    ]
+  },
+  {
+    "id": "molvaine_gap",
+    "name_en": "Molvaine gap",
+    "name_he": "פרצת מולביין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1499,
+      3777
+    ]
+  },
+  {
+    "id": "doirlon_hills",
+    "name_en": "Doirlon hills",
+    "name_he": "גבעות דוארלון",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "אזור גבעות מורם השוכן לאורך הגבול המזרחי של ממלכת איליאן (Illian), בקצה המערבי של מישורי מארדו (Plains of Maredo). הוא מכונה לעיתים \"החומה המזרחית\" של איליאן",
+    "coords": [
+      1155,
+      4452
+    ]
+  },
+  {
+    "id": "manetherendrelle",
+    "name_en": "Manetherendrelle",
+    "name_he": "מנתרנדרל",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "בלשון העתיקה (Old Tongue), פירוש השם הוא \"מימי בית ההר\" (Waters of the Mountain Home), על שם ממלכת מנת'רן ההיסטורית והמפוארת שחרבה במלחמות הטרולוקים",
+    "coords": [
+      1197,
+      4222
+    ]
+  },
+  {
+    "id": "sabinel",
+    "name_en": "Sabinel",
+    "name_he": "סבינל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1330,
+      4210
+    ]
+  },
+  {
+    "id": "inishlin",
+    "name_en": "Inishlin",
+    "name_he": "אינישלין",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "אינישלין היא עיר או עיירה מרכזית השוכנת בממלכת מורנדי",
+    "coords": [
+      1540,
+      4089
+    ]
+  },
+  {
+    "id": "minde",
+    "name_en": "Minde",
+    "name_he": "מינדה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "העיר מוזכרת בסדרה ככזו שתושביה (\"המינדאים\") ידועים ומפורסמים במזג החם, העצבני והרגזן שלהם",
+    "coords": [
+      1826,
+      4273
+    ]
+  },
+  {
+    "id": "cumbar_hills",
+    "name_en": "cumbar hills",
+    "name_he": "גבעות קומבאר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1826,
+      3952
+    ]
+  },
+  {
+    "id": "hills_of_absher",
+    "name_en": "Hills of absher",
+    "name_he": "גבעות אבשר",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2397,
+      3478
+    ]
+  },
+  {
+    "id": "fingers_of_the_dragon",
+    "name_en": "Fingers of the dragon",
+    "name_he": "אצבעות הדרקון",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "זוהי דלתת נהר עצומה ומבוך סבוך של נתיבי מים, ביצות, שוניות סלעיות ובריכות גאות, הנוצרת בנקודת השפך של נהר הארינין (River Erinin) אל תוך ים הסופות בדרום היבשת",
+    "coords": [
+      958,
+      5085
+    ]
+  },
+  {
+    "id": "plains_of_maredo",
+    "name_en": "Plains of maredo",
+    "name_he": "מישורי מארדו",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1287,
+      4751
+    ]
+  },
+  {
+    "id": "portal_stone",
+    "name_en": "portal stone",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1176,
+      5243
+    ]
+  },
+  {
+    "id": "hills_of_kintara",
+    "name_en": "Hills of kintara",
+    "name_he": "גבעות קינטרה",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1706,
+      4647
+    ]
+  },
+  {
+    "id": "trustair",
+    "name_en": "Trustair",
+    "name_he": "טרוסטייר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1990,
+      4096
+    ]
+  },
+  {
+    "id": "maerone",
+    "name_en": "Maerone",
+    "name_he": "מיירון",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2123,
+      5111
+    ]
+  },
+  {
+    "id": "chishen_mountains",
+    "name_en": "Chishen mountains",
+    "name_he": "הרי צ'ישין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1966,
+      4892
+    ]
+  },
+  {
+    "id": "tunaighen_hills",
+    "name_en": "Tunaighen hills",
+    "name_he": "גבעות טוניהאן",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2068,
+      4869
+    ]
+  },
+  {
+    "id": "grafendale",
+    "name_en": "Grafendale",
+    "name_he": "גראפנדייל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2000,
+      4703
+    ]
+  },
+  {
+    "id": "buryhill",
+    "name_en": "Buryhill",
+    "name_he": "בוריהיל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2033,
+      4496
+    ]
+  },
+  {
+    "id": "damelien",
+    "name_en": "Damelien",
+    "name_he": "דמליין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2031,
+      4453
+    ]
+  },
+  {
+    "id": "forel_market",
+    "name_en": "Forel market",
+    "name_he": "שוק פורל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "כפר השוכן בממלכת אנדור (Andor), מדרום לעיר הבירה קאמלין. הוא ממוקם על הדרך שבין הכפר באריהיל (Buryhill) לבין גשר הארלון (Harlon Bridge)",
+    "coords": [
+      2057,
+      4527
+    ]
+  },
+  {
+    "id": "harlon_bridge",
+    "name_en": "Harlon bridge",
+    "name_he": "גשר הארלון",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2084,
+      4557
+    ]
+  },
+  {
+    "id": "danabar",
+    "name_en": "Danabar",
+    "name_he": "דאנבאר",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2079,
+      4473
+    ]
+  },
+  {
+    "id": "cullen_s_crossing",
+    "name_en": "Cullen's crossing",
+    "name_he": "מעבר קולן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2125,
+      4658
+    ]
+  },
+  {
+    "id": "farrier_s_green",
+    "name_en": "Farrier's green",
+    "name_he": "הדשא של המפרזל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2183,
+      4746
+    ]
+  },
+  {
+    "id": "carysford",
+    "name_en": "carysford",
+    "name_he": "קריספורד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2179,
+      4539
+    ]
+  },
+  {
+    "id": "market_sheran",
+    "name_en": "Market sheran",
+    "name_he": "שוק שרן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2174,
+      4492
+    ]
+  },
+  {
+    "id": "breen_s_spring",
+    "name_en": "Breen's spring",
+    "name_he": "מעיין ברין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2167,
+      4443
+    ]
+  },
+  {
+    "id": "four_kings",
+    "name_en": "Four kings",
+    "name_he": "ארבעת המלכים",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2154,
+      4383
+    ]
+  },
+  {
+    "id": "arien",
+    "name_en": "Arien",
+    "name_he": "אריין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2162,
+      4279
+    ]
+  },
+  {
+    "id": "splintered_hills",
+    "name_en": "Splintered hills",
+    "name_he": "הגבעות המבוקעות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2060,
+      4200
+    ]
+  },
+  {
+    "id": "new_bream",
+    "name_en": "New bream",
+    "name_he": "בראם החדשה",
+    "category": "city",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2347,
+      4680
+    ]
+  },
+  {
+    "id": "kore_springs",
+    "name_en": "Kore springs",
+    "name_he": "מעיינות קור",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2353,
+      4605
+    ]
+  },
+  {
+    "id": "jornhill",
+    "name_en": "Jornhill",
+    "name_he": "ג'רנהיל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2416,
+      4401
+    ]
+  },
+  {
+    "id": "bream_wood",
+    "name_en": "Bream wood",
+    "name_he": "יער ברים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2413,
+      4797
+    ]
+  },
+  {
+    "id": "jurene",
+    "name_en": "Jurene",
+    "name_he": "ג'ורן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2373,
+      5033
+    ]
+  },
+  {
+    "id": "caralain_grass",
+    "name_en": "Caralain grass",
+    "name_he": "ערבת קאראלין",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2723,
+      4221
+    ]
+  },
+  {
+    "id": "jentoine_stedding",
+    "name_en": "Jentoine stedding",
+    "name_he": "סטדינג ג'נטויין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3121,
+      4638
+    ]
+  },
+  {
+    "id": "eldone_market",
+    "name_en": "Eldone market",
+    "name_he": "שוק אלדון",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3169,
+      5114
+    ]
+  },
+  {
+    "id": "dorlan",
+    "name_en": "Dorlan",
+    "name_he": "דורלאן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3131,
+      5109
+    ]
+  },
+  {
+    "id": "alianelle_spring",
+    "name_en": "Alianelle spring",
+    "name_he": "מעיין אליאנל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3073,
+      5175
+    ]
+  },
+  {
+    "id": "negin_bridge",
+    "name_en": "Negin bridge",
+    "name_he": "גשר נגין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3024,
+      5048
+    ]
+  },
+  {
+    "id": "stone_portal_1780125654947",
+    "name_en": "Stone portal",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2624,
+      5508
+    ]
+  },
+  {
+    "id": "cairhein",
+    "name_en": "Cairhein",
+    "name_he": "קאירהיין",
+    "category": "capital",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2724,
+      5342
+    ]
+  },
+  {
+    "id": "morelle",
+    "name_en": "Morelle",
+    "name_he": "מורל",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2384,
+      5513
+    ]
+  },
+  {
+    "id": "tremonsien",
+    "name_en": "Tremonsien",
+    "name_he": "טרמונסיין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2858,
+      5442
+    ]
+  },
+  {
+    "id": "eiandron",
+    "name_en": "Eiandron",
+    "name_he": "איינרוד",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2812,
+      5772
+    ]
+  },
+  {
+    "id": "kinslayers_dagger",
+    "name_en": "Kinslayers dagger",
+    "name_he": "הרי טובח השארים",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3042,
+      5874
+    ]
+  },
+  {
+    "id": "chanti_stedding",
+    "name_en": "Chanti stedding",
+    "name_he": "סטדינג צ'אנטי",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3524,
+      6203
+    ]
+  },
+  {
+    "id": "lantoine_stedding",
+    "name_en": "Lantoine stedding",
+    "name_he": "סטדינג לנטויין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3448,
+      6147
+    ]
+  },
+  {
+    "id": "yongen_stedding",
+    "name_en": "Yongen stedding",
+    "name_he": "סטדינג יונגן",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3234,
+      6308
+    ]
+  },
+  {
+    "id": "yontaing_stedding",
+    "name_en": "Yontaing stedding",
+    "name_he": "סטדינג יונטיינג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3178,
+      6114
+    ]
+  },
+  {
+    "id": "taien",
+    "name_en": "Taien",
+    "name_he": "טאיין",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3065,
+      6490
+    ]
+  },
+  {
+    "id": "selean",
+    "name_en": "selean",
+    "name_he": "סליאן",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3038,
+      6190
+    ]
+  },
+  {
+    "id": "jangai_pass",
+    "name_en": "Jangai pass",
+    "name_he": "מעבר ג'נגאי",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      3077,
+      6410
+    ]
+  },
+  {
+    "id": "the_spine_of_the_world",
+    "name_en": "The Spine of the World",
+    "name_he": "עמוד השדרה של העולם",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2481,
+      6343
+    ]
+  },
+  {
+    "id": "sintaing_stedding",
+    "name_en": "Sintaing stedding",
+    "name_he": "סטדינג סינטיינג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2629,
+      6080
+    ]
+  },
+  {
+    "id": "tajing_stedding",
+    "name_en": "Tajing stedding",
+    "name_he": "סטדינג טייג'ינג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2349,
+      6161
+    ]
+  },
+  {
+    "id": "cantoine_stedding",
+    "name_en": "Cantoine stedding",
+    "name_he": "סטדינג קנטויין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2304,
+      5970
+    ]
+  },
+  {
+    "id": "kolomon_stedding",
+    "name_en": "Kolomon stedding",
+    "name_he": "סטדינג קולומון",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2056,
+      6064
+    ]
+  },
+  {
+    "id": "daiting_stedding",
+    "name_en": "Daiting stedding",
+    "name_he": "סטדינג דייטינג",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1729,
+      6156
+    ]
+  },
+  {
+    "id": "jenshin_stedding",
+    "name_en": "Jenshin stedding",
+    "name_he": "סטדינג ג'יישין",
+    "category": "stedding",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1790,
+      5740
+    ]
+  },
+  {
+    "id": "haddon_mirk",
+    "name_en": "Haddon mirk",
+    "name_he": "האדון מירק",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "באזור פראי ונרחב של יערות, ביצות ושטחי כבול, המשתרע על פני כמעט 700 מיילים",
+    "coords": [
+      1557,
+      5461
+    ]
+  },
+  {
+    "id": "cindaking",
+    "name_en": "Cindaking",
+    "name_he": "סינדאקינג",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "סינדאקינג הוא אי קטן הממוקם בים הסופות (Sea of Storms), והוא שייך לקבוצת האיים של \"עמי הים\" (האת'אן מייר). הוא שוכן בסמוך לאי הגדול והמרכזי טרמלקינג (Tremalking) ולאי קאים",
+    "coords": [
+      440,
+      6022
+    ]
+  },
+  {
+    "id": "bay_of_remara",
+    "name_en": "Bay of remara",
+    "name_he": "מפרץ רמארה",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "זהו מפרץ גדול הממוקם לחופו של ים הסופות (Sea of Storms) בדרום היבשת, מזרחית לחצי האי של ממלכת טיר (Tear) ודרומית לאזור הגבעות של הדון מירק (Haddon Mirk).",
+    "coords": [
+      838,
+      6120
+    ]
+  },
+  {
+    "id": "drowned_lands",
+    "name_en": "Drowned lands",
+    "name_he": "האדמות המוצפות",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      957,
+      6345
+    ]
+  },
+  {
+    "id": "stone_portal_1780126482737",
+    "name_en": "Stone portal",
+    "name_he": "אבן שער",
+    "category": "portal_stone",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      2856,
+      6752
+    ]
+  },
+  {
+    "id": "imre_stand",
+    "name_en": "Imre stand",
+    "name_he": "עמדת אימרה",
+    "category": "landmark",
+    "desc_en": "",
+    "desc_he": "זוהי תחנת עצירה קטנה ונווה מדבר (נקודת מים) השוכנת בלב שממת אייל (Aiel Waste), בשטחים המוחזקים על ידי שבט הטאארדאד אייל. המקום נמצא במרחק של כיום רכיבה אחד מרואידיאן",
+    "coords": [
+      2647,
+      6827
+    ]
+  },
+  {
+    "id": "termool_desert",
+    "name_en": "Termool desert",
+    "name_he": "מדבר טרמול",
+    "category": "region",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      1344,
+      6743
+    ]
+  },
+  {
+    "id": "the_town",
+    "name_en": "The town",
+    "name_he": "העיירה",
+    "category": "village",
+    "desc_en": "",
+    "desc_he": "",
+    "coords": [
+      4350,
+      5450
+    ]
+  }
+]

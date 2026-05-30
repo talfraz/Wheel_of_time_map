@@ -1,0 +1,5867 @@
+﻿[
+    {
+        "Words":  [
+                      {
+                          "Y":  238,
+                          "Height":  32,
+                          "Width":  64,
+                          "Text":  "\u0027R",
+                          "X":  2286
+                      },
+                      {
+                          "Y":  239,
+                          "Height":  40,
+                          "Width":  169,
+                          "Text":  "HIOD",
+                          "X":  2360
+                      }
+                  ],
+        "Text":  "\u0027R HIOD",
+        "Width":  243,
+        "Y":  238,
+        "X":  2286,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  787,
+                          "Height":  35,
+                          "Width":  127,
+                          "Text":  "SEA",
+                          "X":  2522
+                      }
+                  ],
+        "Text":  "SEA",
+        "Width":  127,
+        "Y":  787,
+        "X":  2522,
+        "Height":  35
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  476,
+                          "Height":  29,
+                          "Width":  113,
+                          "Text":  "SHAYOI-,",
+                          "X":  5518
+                      },
+                      {
+                          "Y":  468,
+                          "Height":  19,
+                          "Width":  19,
+                          "Text":  "G",
+                          "X":  5638
+                      }
+                  ],
+        "Text":  "SHAYOI-, G",
+        "Width":  139,
+        "Y":  476,
+        "X":  5518,
+        "Height":  29
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  678,
+                          "Height":  43,
+                          "Width":  33,
+                          "Text":  "i,",
+                          "X":  4167
+                      }
+                  ],
+        "Text":  "i,",
+        "Width":  33,
+        "Y":  678,
+        "X":  4167,
+        "Height":  43
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  686,
+                          "Height":  31,
+                          "Width":  22,
+                          "Text":  "I",
+                          "X":  4229
+                      }
+                  ],
+        "Text":  "I",
+        "Width":  22,
+        "Y":  686,
+        "X":  4229,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  684,
+                          "Height":  33,
+                          "Width":  35,
+                          "Text":  "c",
+                          "X":  4279
+                      }
+                  ],
+        "Text":  "c",
+        "Width":  35,
+        "Y":  684,
+        "X":  4279,
+        "Height":  33
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  685,
+                          "Height":  34,
+                          "Width":  31,
+                          "Text":  "T",
+                          "X":  4410
+                      }
+                  ],
+        "Text":  "T",
+        "Width":  31,
+        "Y":  685,
+        "X":  4410,
+        "Height":  34
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  946,
+                          "Height":  36,
+                          "Width":  154,
+                          "Text":  "AIN",
+                          "X":  4385
+                      },
+                      {
+                          "Y":  943,
+                          "Height":  33,
+                          "Width":  23,
+                          "Text":  "S",
+                          "X":  4568
+                      }
+                  ],
+        "Text":  "AIN S",
+        "Width":  206,
+        "Y":  946,
+        "X":  4385,
+        "Height":  36
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  953,
+                          "Height":  20,
+                          "Width":  43,
+                          "Text":  "OF",
+                          "X":  4737
+                      }
+                  ],
+        "Text":  "OF",
+        "Width":  43,
+        "Y":  953,
+        "X":  4737,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1164,
+                          "Height":  33,
+                          "Width":  103,
+                          "Text":  "AILE",
+                          "X":  1040
+                      },
+                      {
+                          "Y":  1162,
+                          "Height":  25,
+                          "Width":  80,
+                          "Text":  "DAS",
+                          "X":  1161
+                      },
+                      {
+                          "Y":  1168,
+                          "Height":  30,
+                          "Width":  62,
+                          "Text":  "AR",
+                          "X":  1279
+                      }
+                  ],
+        "Text":  "AILE DAS AR",
+        "Width":  301,
+        "Y":  1164,
+        "X":  1040,
+        "Height":  33
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2554,
+                          "Height":  17,
+                          "Width":  100,
+                          "Text":  "Cantorin",
+                          "X":  948
+                      }
+                  ],
+        "Text":  "Cantorin",
+        "Width":  100,
+        "Y":  2554,
+        "X":  948,
+        "Height":  17
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2694,
+                          "Height":  24,
+                          "Width":  48,
+                          "Text":  "A1",
+                          "X":  785
+                      },
+                      {
+                          "Y":  2684,
+                          "Height":  32,
+                          "Width":  53,
+                          "Text":  "LE",
+                          "X":  834
+                      },
+                      {
+                          "Y":  2651,
+                          "Height":  50,
+                          "Width":  83,
+                          "Text":  "SOS",
+                          "X":  902
+                      }
+                  ],
+        "Text":  "A1 LE SOS",
+        "Width":  200,
+        "Y":  2694,
+        "X":  785,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3384,
+                          "Height":  15,
+                          "Width":  91,
+                          "Text":  "Dantora",
+                          "X":  1319
+                      }
+                  ],
+        "Text":  "Dantora",
+        "Width":  91,
+        "Y":  3384,
+        "X":  1319,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3411,
+                          "Height":  32,
+                          "Width":  103,
+                          "Text":  "-AILE",
+                          "X":  1253
+                      }
+                  ],
+        "Text":  "-AILE",
+        "Width":  103,
+        "Y":  3411,
+        "X":  1253,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1147,
+                          "Height":  15,
+                          "Width":  58,
+                          "Text":  "Mehar",
+                          "X":  3431
+                      }
+                  ],
+        "Text":  "Mehar",
+        "Width":  58,
+        "Y":  1147,
+        "X":  3431,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1243,
+                          "Height":  20,
+                          "Width":  89,
+                          "Text":  "Bashere",
+                          "X":  3376
+                      }
+                  ],
+        "Text":  "Bashere",
+        "Width":  89,
+        "Y":  1243,
+        "X":  3376,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1521,
+                          "Height":  20,
+                          "Width":  57,
+                          "Text":  "Jongai",
+                          "X":  3448
+                      }
+                  ],
+        "Text":  "Jongai",
+        "Width":  57,
+        "Y":  1521,
+        "X":  3448,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1033,
+                          "Height":  30,
+                          "Width":  254,
+                          "Text":  "MARADON",
+                          "X":  3723
+                      }
+                  ],
+        "Text":  "MARADON",
+        "Width":  254,
+        "Y":  1033,
+        "X":  3723,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1166,
+                          "Height":  22,
+                          "Width":  84,
+                          "Text":  "Irinjavar",
+                          "X":  3784
+                      }
+                  ],
+        "Text":  "Irinjavar",
+        "Width":  84,
+        "Y":  1166,
+        "X":  3784,
+        "Height":  22
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1255,
+                          "Height":  15,
+                          "Width":  59,
+                          "Text":  "Sidona",
+                          "X":  3660
+                      }
+                  ],
+        "Text":  "Sidona",
+        "Width":  59,
+        "Y":  1255,
+        "X":  3660,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1459,
+                          "Height":  13,
+                          "Width":  8,
+                          "Text":  "S",
+                          "X":  3675
+                      },
+                      {
+                          "Y":  1456,
+                          "Height":  16,
+                          "Width":  58,
+                          "Text":  "aishén",
+                          "X":  3685
+                      }
+                  ],
+        "Text":  "S aishén",
+        "Width":  68,
+        "Y":  1459,
+        "X":  3675,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  757,
+                          "Height":  40,
+                          "Width":  183,
+                          "Text":  "ANDS",
+                          "X":  4998
+                      }
+                  ],
+        "Text":  "ANDS",
+        "Width":  183,
+        "Y":  757,
+        "X":  4998,
+        "Height":  40
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1089,
+                          "Height":  32,
+                          "Width":  125,
+                          "Text":  "SHOL",
+                          "X":  5179
+                      }
+                  ],
+        "Text":  "SHOL",
+        "Width":  125,
+        "Y":  1089,
+        "X":  5179,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1138,
+                          "Height":  19,
+                          "Width":  100,
+                          "Text":  "Firchon",
+                          "X":  4867
+                      },
+                      {
+                          "Y":  1142,
+                          "Height":  14,
+                          "Width":  51,
+                          "Text":  "Pass",
+                          "X":  4978
+                      }
+                  ],
+        "Text":  "Firchon Pass",
+        "Width":  162,
+        "Y":  1138,
+        "X":  4867,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1184,
+                          "Height":  46,
+                          "Width":  187,
+                          "Text":  "ARA",
+                          "X":  4970
+                      },
+                      {
+                          "Y":  1185,
+                          "Height":  53,
+                          "Width":  162,
+                          "Text":  "FEL",
+                          "X":  5169
+                      }
+                  ],
+        "Text":  "ARA FEL",
+        "Width":  361,
+        "Y":  1184,
+        "X":  4970,
+        "Height":  46
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1243,
+                          "Height":  19,
+                          "Width":  50,
+                          "Text":  "Keeps",
+                          "X":  4905
+                      }
+                  ],
+        "Text":  "Keeps",
+        "Width":  50,
+        "Y":  1243,
+        "X":  4905,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1293,
+                          "Height":  18,
+                          "Width":  70,
+                          "Text":  "Sholoon",
+                          "X":  5161
+                      }
+                  ],
+        "Text":  "Sholoon",
+        "Width":  70,
+        "Y":  1293,
+        "X":  5161,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1317,
+                          "Height":  19,
+                          "Width":  85,
+                          "Text":  "FIELD",
+                          "X":  5225
+                      }
+                  ],
+        "Text":  "FIELD",
+        "Width":  85,
+        "Y":  1317,
+        "X":  5225,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1341,
+                          "Height":  15,
+                          "Width":  57,
+                          "Text":  "Tifan\u0027s",
+                          "X":  5009
+                      },
+                      {
+                          "Y":  1341,
+                          "Height":  15,
+                          "Width":  39,
+                          "Text":  "well",
+                          "X":  5070
+                      }
+                  ],
+        "Text":  "Tifan\u0027s well",
+        "Width":  100,
+        "Y":  1341,
+        "X":  5009,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1432,
+                          "Height":  13,
+                          "Width":  58,
+                          "Text":  "Gorien",
+                          "X":  5118
+                      },
+                      {
+                          "Y":  1432,
+                          "Height":  32,
+                          "Width":  95,
+                          "Text":  "Springw",
+                          "X":  5182
+                      }
+                  ],
+        "Text":  "Gorien Springw",
+        "Width":  159,
+        "Y":  1432,
+        "X":  5118,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  597,
+                          "Height":  24,
+                          "Width":  39,
+                          "Text":  "T\u0026E\u0027",
+                          "X":  5406
+                      },
+                      {
+                          "Y":  611,
+                          "Height":  23,
+                          "Width":  76,
+                          "Text":  "VALLEY",
+                          "X":  5450
+                      },
+                      {
+                          "Y":  624,
+                          "Height":  12,
+                          "Width":  24,
+                          "Text":  "OF",
+                          "X":  5530
+                      },
+                      {
+                          "Y":  623,
+                          "Height":  3,
+                          "Width":  26,
+                          "Text":  "—",
+                          "X":  5564
+                      }
+                  ],
+        "Text":  "T\u0026E\u0027 VALLEY OF —",
+        "Width":  184,
+        "Y":  597,
+        "X":  5406,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  642,
+                          "Height":  20,
+                          "Width":  65,
+                          "Text":  "DAR",
+                          "X":  5509
+                      }
+                  ],
+        "Text":  "DAR",
+        "Width":  65,
+        "Y":  642,
+        "X":  5509,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  701,
+                          "Height":  16,
+                          "Width":  31,
+                          "Text":  "The",
+                          "X":  5491
+                      },
+                      {
+                          "Y":  705,
+                          "Height":  12,
+                          "Width":  48,
+                          "Text":  "Town",
+                          "X":  5527
+                      }
+                  ],
+        "Text":  "The Town",
+        "Width":  84,
+        "Y":  701,
+        "X":  5491,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1041,
+                          "Height":  18,
+                          "Width":  70,
+                          "Text":  "Jakanda",
+                          "X":  5360
+                      }
+                  ],
+        "Text":  "Jakanda",
+        "Width":  70,
+        "Y":  1041,
+        "X":  5360,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1089,
+                          "Height":  32,
+                          "Width":  130,
+                          "Text":  "BELA",
+                          "X":  5391
+                      }
+                  ],
+        "Text":  "BELA",
+        "Width":  130,
+        "Y":  1089,
+        "X":  5391,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1176,
+                          "Height":  18,
+                          "Width":  59,
+                          "Text":  "rranhal",
+                          "X":  5350
+                      }
+                  ],
+        "Text":  "rranhal",
+        "Width":  59,
+        "Y":  1176,
+        "X":  5350,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  887,
+                          "Height":  12,
+                          "Width":  48,
+                          "Text":  "Seven",
+                          "X":  5741
+                      },
+                      {
+                          "Y":  887,
+                          "Height":  12,
+                          "Width":  60,
+                          "Text":  "TOwers",
+                          "X":  5794
+                      }
+                  ],
+        "Text":  "Seven TOwers",
+        "Width":  113,
+        "Y":  887,
+        "X":  5741,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  951,
+                          "Height":  43,
+                          "Width":  218,
+                          "Text":  "OXJNT",
+                          "X":  4144
+                      }
+                  ],
+        "Text":  "OXJNT",
+        "Width":  218,
+        "Y":  951,
+        "X":  4144,
+        "Height":  43
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1047,
+                          "Height":  15,
+                          "Width":  61,
+                          "Text":  "Berndt",
+                          "X":  4231
+                      }
+                  ],
+        "Text":  "Berndt",
+        "Width":  61,
+        "Y":  1047,
+        "X":  4231,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1060,
+                          "Height":  16,
+                          "Width":  90,
+                          "Text":  "Crossroads",
+                          "X":  4230
+                      }
+                  ],
+        "Text":  "Crossroads",
+        "Width":  90,
+        "Y":  1060,
+        "X":  4230,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1094,
+                          "Height":  15,
+                          "Width":  50,
+                          "Text":  "South",
+                          "X":  4077
+                      },
+                      {
+                          "Y":  1094,
+                          "Height":  15,
+                          "Width":  64,
+                          "Text":  "Mettler",
+                          "X":  4132
+                      }
+                  ],
+        "Text":  "South Mettler",
+        "Width":  119,
+        "Y":  1094,
+        "X":  4077,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1145,
+                          "Height":  34,
+                          "Width":  132,
+                          "Text":  "PLAIN",
+                          "X":  3980
+                      },
+                      {
+                          "Y":  1167,
+                          "Height":  14,
+                          "Width":  29,
+                          "Text":  "OF",
+                          "X":  4130
+                      },
+                      {
+                          "Y":  1163,
+                          "Height":  21,
+                          "Width":  134,
+                          "Text":  "LANCES",
+                          "X":  4193
+                      }
+                  ],
+        "Text":  "PLAIN OF LANCES",
+        "Width":  347,
+        "Y":  1145,
+        "X":  3980,
+        "Height":  34
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1004,
+                          "Height":  19,
+                          "Width":  57,
+                          "Text":  "FAL",
+                          "X":  5918
+                      },
+                      {
+                          "Y":  1004,
+                          "Height":  18,
+                          "Width":  87,
+                          "Text":  "DARA",
+                          "X":  5984
+                      }
+                  ],
+        "Text":  "FAL DARA",
+        "Width":  153,
+        "Y":  1004,
+        "X":  5918,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1079,
+                          "Height":  16,
+                          "Width":  47,
+                          "Text":  "FAL",
+                          "X":  5924
+                      },
+                      {
+                          "Y":  1079,
+                          "Height":  15,
+                          "Width":  57,
+                          "Text":  "SION",
+                          "X":  5980
+                      }
+                  ],
+        "Text":  "FAL SION",
+        "Width":  113,
+        "Y":  1079,
+        "X":  5924,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  663,
+                          "Height":  15,
+                          "Width":  33,
+                          "Text":  "The",
+                          "X":  6480
+                      },
+                      {
+                          "Y":  666,
+                          "Height":  20,
+                          "Width":  34,
+                          "Text":  "Eye",
+                          "X":  6519
+                      }
+                  ],
+        "Text":  "The Eye",
+        "Width":  73,
+        "Y":  663,
+        "X":  6480,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  685,
+                          "Height":  15,
+                          "Width":  18,
+                          "Text":  "of",
+                          "X":  6460
+                      },
+                      {
+                          "Y":  684,
+                          "Height":  16,
+                          "Width":  30,
+                          "Text":  "the",
+                          "X":  6482
+                      },
+                      {
+                          "Y":  684,
+                          "Height":  16,
+                          "Width":  57,
+                          "Text":  "World",
+                          "X":  6516
+                      }
+                  ],
+        "Text":  "of the World",
+        "Width":  113,
+        "Y":  685,
+        "X":  6460,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  958,
+                          "Height":  23,
+                          "Width":  67,
+                          "Text":  "Richen",
+                          "X":  6398
+                      }
+                  ],
+        "Text":  "Richen",
+        "Width":  67,
+        "Y":  958,
+        "X":  6398,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1019,
+                          "Height":  2,
+                          "Width":  6,
+                          "Text":  "-",
+                          "X":  6285
+                      },
+                      {
+                          "Y":  1009,
+                          "Height":  16,
+                          "Width":  75,
+                          "Text":  "Sanshen",
+                          "X":  6298
+                      }
+                  ],
+        "Text":  "- Sanshen",
+        "Width":  88,
+        "Y":  1019,
+        "X":  6285,
+        "Height":  2
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1073,
+                          "Height":  19,
+                          "Width":  108,
+                          "Text":  "CAIÄIRON",
+                          "X":  6222
+                      },
+                      {
+                          "Y":  1076,
+                          "Height":  16,
+                          "Width":  13,
+                          "Text":  "C",
+                          "X":  6336
+                      }
+                  ],
+        "Text":  "CAIÄIRON C",
+        "Width":  127,
+        "Y":  1073,
+        "X":  6222,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1107,
+                          "Height":  18,
+                          "Width":  51,
+                          "Text":  "MOS",
+                          "X":  6121
+                      }
+                  ],
+        "Text":  "MOS",
+        "Width":  51,
+        "Y":  1107,
+        "X":  6121,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1073,
+                          "Height":  31,
+                          "Width":  225,
+                          "Text":  "CHACHIN",
+                          "X":  4490
+                      }
+                  ],
+        "Text":  "CHACHIN",
+        "Width":  225,
+        "Y":  1073,
+        "X":  4490,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1149,
+                          "Height":  16,
+                          "Width":  72,
+                          "Text":  "Ravinda",
+                          "X":  4518
+                      }
+                  ],
+        "Text":  "Ravinda",
+        "Width":  72,
+        "Y":  1149,
+        "X":  4518,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1193,
+                          "Height":  13,
+                          "Width":  38,
+                          "Text":  "Sout",
+                          "X":  4555
+                      }
+                  ],
+        "Text":  "Sout",
+        "Width":  38,
+        "Y":  1193,
+        "X":  4555,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1215,
+                          "Height":  19,
+                          "Width":  141,
+                          "Text":  "CANLUXJM",
+                          "X":  4665
+                      }
+                  ],
+        "Text":  "CANLUXJM",
+        "Width":  141,
+        "Y":  1215,
+        "X":  4665,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1227,
+                          "Height":  64,
+                          "Width":  377,
+                          "Text":  "RANDOL",
+                          "X":  4272
+                      }
+                  ],
+        "Text":  "RANDOL",
+        "Width":  377,
+        "Y":  1227,
+        "X":  4272,
+        "Height":  64
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1426,
+                          "Height":  25,
+                          "Width":  99,
+                          "Text":  "Rayacun",
+                          "X":  3037
+                      }
+                  ],
+        "Text":  "Rayacun",
+        "Width":  99,
+        "Y":  1426,
+        "X":  3037,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1059,
+                          "Height":  16,
+                          "Width":  46,
+                          "Text":  "Medo",
+                          "X":  5689
+                      }
+                  ],
+        "Text":  "Medo",
+        "Width":  46,
+        "Y":  1059,
+        "X":  5689,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1087,
+                          "Height":  16,
+                          "Width":  45,
+                          "Text":  "FAL",
+                          "X":  5597
+                      },
+                      {
+                          "Y":  1084,
+                          "Height":  19,
+                          "Width":  71,
+                          "Text":  "EISEN",
+                          "X":  5649
+                      }
+                  ],
+        "Text":  "FAL EISEN",
+        "Width":  123,
+        "Y":  1087,
+        "X":  5597,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1521,
+                          "Height":  11,
+                          "Width":  26,
+                          "Text":  "Nu",
+                          "X":  5713
+                      },
+                      {
+                          "Y":  1524,
+                          "Height":  8,
+                          "Width":  9,
+                          "Text":  "r",
+                          "X":  5740
+                      },
+                      {
+                          "Y":  1517,
+                          "Height":  23,
+                          "Width":  53,
+                          "Text":  "shang",
+                          "X":  5750
+                      }
+                  ],
+        "Text":  "Nu r shang",
+        "Width":  90,
+        "Y":  1521,
+        "X":  5713,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1133,
+                          "Height":  31,
+                          "Width":  93,
+                          "Text":  "FAL",
+                          "X":  5874
+                      },
+                      {
+                          "Y":  1133,
+                          "Height":  30,
+                          "Width":  183,
+                          "Text":  "MORAN",
+                          "X":  5981
+                      }
+                  ],
+        "Text":  "FAL MORAN",
+        "Width":  290,
+        "Y":  1133,
+        "X":  5874,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1240,
+                          "Height":  16,
+                          "Width":  79,
+                          "Text":  "Mallard\u0027s",
+                          "X":  5988
+                      },
+                      {
+                          "Y":  1240,
+                          "Height":  15,
+                          "Width":  34,
+                          "Text":  "Hill",
+                          "X":  6073
+                      }
+                  ],
+        "Text":  "Mallard\u0027s Hill",
+        "Width":  119,
+        "Y":  1240,
+        "X":  5988,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1440,
+                          "Height":  25,
+                          "Width":  108,
+                          "Text":  "Shienar",
+                          "X":  373
+                      }
+                  ],
+        "Text":  "Shienar",
+        "Width":  108,
+        "Y":  1440,
+        "X":  373,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1548,
+                          "Height":  30,
+                          "Width":  102,
+                          "Text":  "ooo",
+                          "X":  188
+                      }
+                  ],
+        "Text":  "ooo",
+        "Width":  102,
+        "Y":  1548,
+        "X":  188,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1663,
+                          "Height":  29,
+                          "Width":  84,
+                          "Text":  "Arafel",
+                          "X":  181
+                      }
+                  ],
+        "Text":  "Arafel",
+        "Width":  84,
+        "Y":  1663,
+        "X":  181,
+        "Height":  29
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1896,
+                          "Height":  19,
+                          "Width":  13,
+                          "Text":  "S",
+                          "X":  378
+                      },
+                      {
+                          "Y":  1890,
+                          "Height":  27,
+                          "Width":  68,
+                          "Text":  "aldea",
+                          "X":  394
+                      }
+                  ],
+        "Text":  "S aldea",
+        "Width":  84,
+        "Y":  1896,
+        "X":  378,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2118,
+                          "Height":  36,
+                          "Width":  65,
+                          "Text":  "brad",
+                          "X":  149
+                      },
+                      {
+                          "Y":  2122,
+                          "Height":  24,
+                          "Width":  98,
+                          "Text":  "Doman",
+                          "X":  223
+                      }
+                  ],
+        "Text":  "brad Doman",
+        "Width":  172,
+        "Y":  2118,
+        "X":  149,
+        "Height":  36
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2344,
+                          "Height":  28,
+                          "Width":  110,
+                          "Text":  "Malleier",
+                          "X":  367
+                      }
+                  ],
+        "Text":  "Malleier",
+        "Width":  110,
+        "Y":  2344,
+        "X":  367,
+        "Height":  28
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2568,
+                          "Height":  32,
+                          "Width":  128,
+                          "Text":  "xmadicia",
+                          "X":  171
+                      }
+                  ],
+        "Text":  "xmadicia",
+        "Width":  128,
+        "Y":  2568,
+        "X":  171,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2805,
+                          "Height":  26,
+                          "Width":  86,
+                          "Text":  "Altara",
+                          "X":  374
+                      }
+                  ],
+        "Text":  "Altara",
+        "Width":  86,
+        "Y":  2805,
+        "X":  374,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3031,
+                          "Height":  36,
+                          "Width":  131,
+                          "Text":  "$urand._y",
+                          "X":  169
+                      }
+                  ],
+        "Text":  "$urand._y",
+        "Width":  131,
+        "Y":  3031,
+        "X":  169,
+        "Height":  36
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3261,
+                          "Height":  19,
+                          "Width":  60,
+                          "Text":  "Tear",
+                          "X":  390
+                      }
+                  ],
+        "Text":  "Tear",
+        "Width":  60,
+        "Y":  3261,
+        "X":  390,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3483,
+                          "Height":  31,
+                          "Width":  118,
+                          "Text":  "Cairhien",
+                          "X":  178
+                      }
+                  ],
+        "Text":  "Cairhien",
+        "Width":  118,
+        "Y":  3483,
+        "X":  178,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3709,
+                          "Height":  30,
+                          "Width":  128,
+                          "Text":  "Seanchen",
+                          "X":  361
+                      }
+                  ],
+        "Text":  "Seanchen",
+        "Width":  128,
+        "Y":  3709,
+        "X":  361,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1225,
+                          "Height":  19,
+                          "Width":  74,
+                          "Text":  "Ankor",
+                          "X":  6205
+                      },
+                      {
+                          "Y":  1225,
+                          "Height":  19,
+                          "Width":  47,
+                          "Text":  "Dail",
+                          "X":  6286
+                      }
+                  ],
+        "Text":  "Ankor Dail",
+        "Width":  128,
+        "Y":  1225,
+        "X":  6205,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1263,
+                          "Height":  26,
+                          "Width":  115,
+                          "Text":  "NIAMH",
+                          "X":  6285
+                      },
+                      {
+                          "Y":  1263,
+                          "Height":  25,
+                          "Width":  114,
+                          "Text":  "PASSES",
+                          "X":  6413
+                      }
+                  ],
+        "Text":  "NIAMH PASSES",
+        "Width":  242,
+        "Y":  1263,
+        "X":  6285,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1409,
+                          "Height":  11,
+                          "Width":  16,
+                          "Text":  "H",
+                          "X":  6177
+                      },
+                      {
+                          "Y":  1405,
+                          "Height":  16,
+                          "Width":  45,
+                          "Text":  "andu",
+                          "X":  6194
+                      }
+                  ],
+        "Text":  "H andu",
+        "Width":  62,
+        "Y":  1409,
+        "X":  6177,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1574,
+                          "Height":  16,
+                          "Width":  61,
+                          "Text":  "Chanti",
+                          "X":  6164
+                      }
+                  ],
+        "Text":  "Chanti",
+        "Width":  61,
+        "Y":  1574,
+        "X":  6164,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1543,
+                          "Height":  13,
+                          "Width":  26,
+                          "Text":  "Fei",
+                          "X":  3985
+                      },
+                      {
+                          "Y":  1541,
+                          "Height":  15,
+                          "Width":  36,
+                          "Text":  "ndu",
+                          "X":  4012
+                      }
+                  ],
+        "Text":  "Fei ndu",
+        "Width":  63,
+        "Y":  1543,
+        "X":  3985,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1719,
+                          "Height":  15,
+                          "Width":  73,
+                          "Text":  "Tsochan",
+                          "X":  3877
+                      }
+                  ],
+        "Text":  "Tsochan",
+        "Width":  73,
+        "Y":  1719,
+        "X":  3877,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1725,
+                          "Height":  26,
+                          "Width":  57,
+                          "Text":  "Shajin",
+                          "X":  4222
+                      }
+                  ],
+        "Text":  "Shajin",
+        "Width":  57,
+        "Y":  1725,
+        "X":  4222,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1639,
+                          "Height":  23,
+                          "Width":  43,
+                          "Text":  "aeo",
+                          "X":  4720
+                      }
+                  ],
+        "Text":  "aeo",
+        "Width":  43,
+        "Y":  1639,
+        "X":  4720,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1667,
+                          "Height":  29,
+                          "Width":  104,
+                          "Text":  "Randor",
+                          "X":  586
+                      }
+                  ],
+        "Text":  "Randor",
+        "Width":  104,
+        "Y":  1667,
+        "X":  586,
+        "Height":  29
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2122,
+                          "Height":  19,
+                          "Width":  46,
+                          "Text":  "Tar",
+                          "X":  569
+                      },
+                      {
+                          "Y":  2118,
+                          "Height":  29,
+                          "Width":  64,
+                          "Text":  "abon",
+                          "X":  616
+                      }
+                  ],
+        "Text":  "Tar abon",
+        "Width":  111,
+        "Y":  2122,
+        "X":  569,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2569,
+                          "Height":  32,
+                          "Width":  126,
+                          "Text":  "Ghealdan",
+                          "X":  552
+                      }
+                  ],
+        "Text":  "Ghealdan",
+        "Width":  126,
+        "Y":  2569,
+        "X":  552,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3029,
+                          "Height":  29,
+                          "Width":  77,
+                          "Text":  "Illian",
+                          "X":  594
+                      }
+                  ],
+        "Text":  "Illian",
+        "Width":  77,
+        "Y":  3029,
+        "X":  594,
+        "Height":  29
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3483,
+                          "Height":  20,
+                          "Width":  41,
+                          "Text":  "Ma",
+                          "X":  564
+                      },
+                      {
+                          "Y":  3489,
+                          "Height":  18,
+                          "Width":  46,
+                          "Text":  "ene",
+                          "X":  623
+                      }
+                  ],
+        "Text":  "Ma ene",
+        "Width":  105,
+        "Y":  3483,
+        "X":  564,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1870,
+                          "Height":  14,
+                          "Width":  62,
+                          "Text":  "Mintai",
+                          "X":  2501
+                      }
+                  ],
+        "Text":  "Mintai",
+        "Width":  62,
+        "Y":  1870,
+        "X":  2501,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1890,
+                          "Height":  30,
+                          "Width":  208,
+                          "Text":  "BANDAR",
+                          "X":  1464
+                      },
+                      {
+                          "Y":  1890,
+                          "Height":  31,
+                          "Width":  133,
+                          "Text":  "EBAN",
+                          "X":  1686
+                      }
+                  ],
+        "Text":  "BANDAR EBAN",
+        "Width":  355,
+        "Y":  1890,
+        "X":  1464,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2607,
+                          "Height":  19,
+                          "Width":  102,
+                          "Text":  "FALME",
+                          "X":  1701
+                      }
+                  ],
+        "Text":  "FALME",
+        "Width":  102,
+        "Y":  2607,
+        "X":  1701,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3168,
+                          "Height":  30,
+                          "Width":  239,
+                          "Text":  "TANCHICO",
+                          "X":  1550
+                      }
+                  ],
+        "Text":  "TANCHICO",
+        "Width":  239,
+        "Y":  3168,
+        "X":  1550,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1883,
+                          "Height":  24,
+                          "Width":  110,
+                          "Text":  "—Dhagon",
+                          "X":  1966
+                      }
+                  ],
+        "Text":  "—Dhagon",
+        "Width":  110,
+        "Y":  1883,
+        "X":  1966,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1896,
+                          "Height":  23,
+                          "Width":  62,
+                          "Text":  "Solanje",
+                          "X":  2378
+                      }
+                  ],
+        "Text":  "Solanje",
+        "Width":  62,
+        "Y":  1896,
+        "X":  2378,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2104,
+                          "Height":  12,
+                          "Width":  52,
+                          "Text":  "Coron",
+                          "X":  2399
+                      },
+                      {
+                          "Y":  2100,
+                          "Height":  16,
+                          "Width":  42,
+                          "Text":  "Ford",
+                          "X":  2457
+                      }
+                  ],
+        "Text":  "Coron Ford",
+        "Width":  100,
+        "Y":  2104,
+        "X":  2399,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2141,
+                          "Height":  15,
+                          "Width":  74,
+                          "Text":  "Darluna",
+                          "X":  2175
+                      }
+                  ],
+        "Text":  "Darluna",
+        "Width":  74,
+        "Y":  2141,
+        "X":  2175,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2266,
+                          "Height":  15,
+                          "Width":  101,
+                          "Text":  "Kandelmar",
+                          "X":  2329
+                      }
+                  ],
+        "Text":  "Kandelmar",
+        "Width":  101,
+        "Y":  2266,
+        "X":  2329,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1860,
+                          "Height":  16,
+                          "Width":  85,
+                          "Text":  "Wenchen",
+                          "X":  2674
+                      }
+                  ],
+        "Text":  "Wenchen",
+        "Width":  85,
+        "Y":  1860,
+        "X":  2674,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2003,
+                          "Height":  15,
+                          "Width":  59,
+                          "Text":  "Tsofan",
+                          "X":  2751
+                      }
+                  ],
+        "Text":  "Tsofan",
+        "Width":  59,
+        "Y":  2003,
+        "X":  2751,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2056,
+                          "Height":  13,
+                          "Width":  72,
+                          "Text":  "Natrin\u0027s",
+                          "X":  2720
+                      }
+                  ],
+        "Text":  "Natrin\u0027s",
+        "Width":  72,
+        "Y":  2056,
+        "X":  2720,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2070,
+                          "Height":  15,
+                          "Width":  82,
+                          "Text":  "Barrow,-",
+                          "X":  2720
+                      }
+                  ],
+        "Text":  "Barrow,-",
+        "Width":  82,
+        "Y":  2070,
+        "X":  2720,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2360,
+                          "Height":  15,
+                          "Width":  63,
+                          "Text":  "Tobin\u0027s",
+                          "X":  2061
+                      }
+                  ],
+        "Text":  "Tobin\u0027s",
+        "Width":  63,
+        "Y":  2360,
+        "X":  2061,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1707,
+                          "Height":  16,
+                          "Width":  76,
+                          "Text":  "Chinden",
+                          "X":  2896
+                      }
+                  ],
+        "Text":  "Chinden",
+        "Width":  76,
+        "Y":  1707,
+        "X":  2896,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2263,
+                          "Height":  30,
+                          "Width":  131,
+                          "Text":  "ATAR",
+                          "X":  2811
+                      }
+                  ],
+        "Text":  "ATAR",
+        "Width":  131,
+        "Y":  2263,
+        "X":  2811,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2411,
+                          "Height":  23,
+                          "Width":  77,
+                          "Text":  "Comfrey",
+                          "X":  2966
+                      }
+                  ],
+        "Text":  "Comfrey",
+        "Width":  77,
+        "Y":  2411,
+        "X":  2966,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1723,
+                          "Height":  15,
+                          "Width":  78,
+                          "Text":  "Chosium",
+                          "X":  3267
+                      }
+                  ],
+        "Text":  "Chosium",
+        "Width":  78,
+        "Y":  1723,
+        "X":  3267,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2418,
+                          "Height":  19,
+                          "Width":  77,
+                          "Text":  "Shadar",
+                          "X":  3332
+                      },
+                      {
+                          "Y":  2416,
+                          "Height":  31,
+                          "Width":  80,
+                          "Text":  "Logoth",
+                          "X":  3417
+                      }
+                  ],
+        "Text":  "Shadar Logoth",
+        "Width":  165,
+        "Y":  2418,
+        "X":  3332,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1964,
+                          "Height":  15,
+                          "Width":  67,
+                          "Text":  "Taishin",
+                          "X":  3536
+                      }
+                  ],
+        "Text":  "Taishin",
+        "Width":  67,
+        "Y":  1964,
+        "X":  3536,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1735,
+                          "Height":  21,
+                          "Width":  76,
+                          "Text":  "Leitlang",
+                          "X":  3692
+                      }
+                  ],
+        "Text":  "Leitlang",
+        "Width":  76,
+        "Y":  1735,
+        "X":  3692,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1831,
+                          "Height":  16,
+                          "Width":  58,
+                          "Text":  "Shayne",
+                          "X":  3647
+                      },
+                      {
+                          "Y":  1831,
+                          "Height":  16,
+                          "Width":  23,
+                          "Text":  "nd",
+                          "X":  3706
+                      },
+                      {
+                          "Y":  1838,
+                          "Height":  8,
+                          "Width":  18,
+                          "Text":  "ar",
+                          "X":  3730
+                      }
+                  ],
+        "Text":  "Shayne nd ar",
+        "Width":  101,
+        "Y":  1831,
+        "X":  3647,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2119,
+                          "Height":  15,
+                          "Width":  68,
+                          "Text":  "Seleisin",
+                          "X":  3650
+                      }
+                  ],
+        "Text":  "Seleisin",
+        "Width":  68,
+        "Y":  2119,
+        "X":  3650,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1366,
+                          "Height":  15,
+                          "Width":  78,
+                          "Text":  "Denhuir",
+                          "X":  4324
+                      }
+                  ],
+        "Text":  "Denhuir",
+        "Width":  78,
+        "Y":  1366,
+        "X":  4324,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1858,
+                          "Height":  11,
+                          "Width":  9,
+                          "Text":  "2,",
+                          "X":  4362
+                      }
+                  ],
+        "Text":  "2,",
+        "Width":  9,
+        "Y":  1858,
+        "X":  4362,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2324,
+                          "Height":  31,
+                          "Width":  100,
+                          "Text":  "CTUASS",
+                          "X":  4357
+                      }
+                  ],
+        "Text":  "CTUASS",
+        "Width":  100,
+        "Y":  2324,
+        "X":  4357,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1392,
+                          "Height":  15,
+                          "Width":  76,
+                          "Text":  "Chiantal",
+                          "X":  4512
+                      }
+                  ],
+        "Text":  "Chiantal",
+        "Width":  76,
+        "Y":  1392,
+        "X":  4512,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1976,
+                          "Height":  17,
+                          "Width":  76,
+                          "Text":  "Jentoine",
+                          "X":  4556
+                      }
+                  ],
+        "Text":  "Jentoine",
+        "Width":  76,
+        "Y":  1976,
+        "X":  4556,
+        "Height":  17
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2535,
+                          "Height":  5,
+                          "Width":  2,
+                          "Text":  "\u0027",
+                          "X":  1920
+                      },
+                      {
+                          "Y":  2532,
+                          "Height":  14,
+                          "Width":  56,
+                          "Text":  "Atua\u0027n",
+                          "X":  1932
+                      },
+                      {
+                          "Y":  2538,
+                          "Height":  8,
+                          "Width":  7,
+                          "Text":  "s",
+                          "X":  1993
+                      },
+                      {
+                          "Y":  2533,
+                          "Height":  13,
+                          "Width":  24,
+                          "Text":  "Mi",
+                          "X":  2006
+                      }
+                  ],
+        "Text":  "\u0027 Atua\u0027n s Mi",
+        "Width":  110,
+        "Y":  2535,
+        "X":  1920,
+        "Height":  5
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2343,
+                          "Height":  15,
+                          "Width":  59,
+                          "Text":  "-Äturo\u0027",
+                          "X":  2210
+                      },
+                      {
+                          "Y":  2349,
+                          "Height":  9,
+                          "Width":  6,
+                          "Text":  "s",
+                          "X":  2271
+                      }
+                  ],
+        "Text":  "-Äturo\u0027 s",
+        "Width":  67,
+        "Y":  2343,
+        "X":  2210,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2361,
+                          "Height":  16,
+                          "Width":  75,
+                          "Text":  "Orchard",
+                          "X":  2212
+                      },
+                      {
+                          "Y":  2374,
+                          "Height":  2,
+                          "Width":  7,
+                          "Text":  "-",
+                          "X":  2290
+                      }
+                  ],
+        "Text":  "Orchard -",
+        "Width":  85,
+        "Y":  2361,
+        "X":  2212,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2400,
+                          "Height":  25,
+                          "Width":  151,
+                          "Text":  "ALMOTYI",
+                          "X":  2239
+                      }
+                  ],
+        "Text":  "ALMOTYI",
+        "Width":  151,
+        "Y":  2400,
+        "X":  2239,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3018,
+                          "Height":  12,
+                          "Width":  37,
+                          "Text":  "Mar",
+                          "X":  2367
+                      },
+                      {
+                          "Y":  3021,
+                          "Height":  9,
+                          "Width":  40,
+                          "Text":  "acru",
+                          "X":  2405
+                      }
+                  ],
+        "Text":  "Mar acru",
+        "Width":  78,
+        "Y":  3018,
+        "X":  2367,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1838,
+                          "Height":  39,
+                          "Width":  127,
+                          "Text":  "TAR",
+                          "X":  5111
+                      },
+                      {
+                          "Y":  1838,
+                          "Height":  41,
+                          "Width":  210,
+                          "Text":  "VALON",
+                          "X":  5269
+                      }
+                  ],
+        "Text":  "TAR VALON",
+        "Width":  368,
+        "Y":  1838,
+        "X":  5111,
+        "Height":  39
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1895,
+                          "Height":  16,
+                          "Width":  58,
+                          "Text":  "Eldone",
+                          "X":  5133
+                      },
+                      {
+                          "Y":  1895,
+                          "Height":  15,
+                          "Width":  64,
+                          "Text":  "Market",
+                          "X":  5196
+                      }
+                  ],
+        "Text":  "Eldone Market",
+        "Width":  127,
+        "Y":  1895,
+        "X":  5133,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1934,
+                          "Height":  15,
+                          "Width":  60,
+                          "Text":  "Dorlan",
+                          "X":  5137
+                      }
+                  ],
+        "Text":  "Dorlan",
+        "Width":  60,
+        "Y":  1934,
+        "X":  5137,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2002,
+                          "Height":  16,
+                          "Width":  77,
+                          "Text":  "Alianelle",
+                          "X":  5208
+                      },
+                      {
+                          "Y":  2005,
+                          "Height":  21,
+                          "Width":  59,
+                          "Text":  "Spring",
+                          "X":  5291
+                      },
+                      {
+                          "Y":  2015,
+                          "Height":  2,
+                          "Width":  5,
+                          "Text":  "-",
+                          "X":  5352
+                      }
+                  ],
+        "Text":  "Alianelle Spring -",
+        "Width":  149,
+        "Y":  2002,
+        "X":  5208,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2055,
+                          "Height":  13,
+                          "Width":  69,
+                          "Text":  "Dumai\u0027s",
+                          "X":  5233
+                      },
+                      {
+                          "Y":  2053,
+                          "Height":  15,
+                          "Width":  47,
+                          "Text":  "Wells",
+                          "X":  5306
+                      }
+                  ],
+        "Text":  "Dumai\u0027s Wells",
+        "Width":  120,
+        "Y":  2055,
+        "X":  5233,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2198,
+                          "Height":  13,
+                          "Width":  102,
+                          "Text":  "Tremonsien",
+                          "X":  5467
+                      }
+                  ],
+        "Text":  "Tremonsien",
+        "Width":  102,
+        "Y":  2198,
+        "X":  5467,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2297,
+                          "Height":  32,
+                          "Width":  250,
+                          "Text":  "CAIRHIEN",
+                          "X":  5426
+                      }
+                  ],
+        "Text":  "CAIRHIEN",
+        "Width":  250,
+        "Y":  2297,
+        "X":  5426,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2437,
+                          "Height":  16,
+                          "Width":  46,
+                          "Text":  "Tsofu",
+                          "X":  5400
+                      }
+                  ],
+        "Text":  "Tsofu",
+        "Width":  46,
+        "Y":  2437,
+        "X":  5400,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2675,
+                          "Height":  12,
+                          "Width":  26,
+                          "Text":  "Mo",
+                          "X":  5546
+                      },
+                      {
+                          "Y":  2671,
+                          "Height":  16,
+                          "Width":  38,
+                          "Text":  "relle",
+                          "X":  5573
+                      }
+                  ],
+        "Text":  "Mo relle",
+        "Width":  65,
+        "Y":  2675,
+        "X":  5546,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2540,
+                          "Height":  22,
+                          "Width":  113,
+                          "Text":  "SWAR",
+                          "X":  2629
+                      }
+                  ],
+        "Text":  "SWAR",
+        "Width":  113,
+        "Y":  2540,
+        "X":  2629,
+        "Height":  22
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2585,
+                          "Height":  31,
+                          "Width":  181,
+                          "Text":  "•$öA1uewoo",
+                          "X":  2566
+                      }
+                  ],
+        "Text":  "•$öA1uewoo",
+        "Width":  181,
+        "Y":  2585,
+        "X":  2566,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2845,
+                          "Height":  15,
+                          "Width":  60,
+                          "Text":  "Madan",
+                          "X":  2604
+                      },
+                      {
+                          "Y":  2844,
+                          "Height":  2,
+                          "Width":  3,
+                          "Text":  "-",
+                          "X":  2667
+                      }
+                  ],
+        "Text":  "Madan -",
+        "Width":  66,
+        "Y":  2845,
+        "X":  2604,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2911,
+                          "Height":  16,
+                          "Width":  20,
+                          "Text":  "Al",
+                          "X":  2536
+                      },
+                      {
+                          "Y":  2918,
+                          "Height":  9,
+                          "Width":  8,
+                          "Text":  "C",
+                          "X":  2557
+                      },
+                      {
+                          "Y":  2918,
+                          "Height":  9,
+                          "Width":  9,
+                          "Text":  "r",
+                          "X":  2566
+                      },
+                      {
+                          "Y":  2918,
+                          "Height":  9,
+                          "Width":  34,
+                          "Text":  "una",
+                          "X":  2576
+                      }
+                  ],
+        "Text":  "Al C r una",
+        "Width":  74,
+        "Y":  2911,
+        "X":  2536,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2451,
+                          "Height":  18,
+                          "Width":  13,
+                          "Text":  "r\u0027",
+                          "X":  2759
+                      },
+                      {
+                          "Y":  2443,
+                          "Height":  25,
+                          "Width":  63,
+                          "Text":  "Lake",
+                          "X":  2792
+                      }
+                  ],
+        "Text":  "r\u0027 Lake",
+        "Width":  96,
+        "Y":  2451,
+        "X":  2759,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2472,
+                          "Height":  24,
+                          "Width":  76,
+                          "Text":  "Somal",
+                          "X":  2786
+                      }
+                  ],
+        "Text":  "Somal",
+        "Width":  76,
+        "Y":  2472,
+        "X":  2786,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2646,
+                          "Height":  15,
+                          "Width":  105,
+                          "Text":  "Manetheren",
+                          "X":  2813
+                      }
+                  ],
+        "Text":  "Manetheren",
+        "Width":  105,
+        "Y":  2646,
+        "X":  2813,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2508,
+                          "Height":  23,
+                          "Width":  106,
+                          "Text":  "Baerlon",
+                          "X":  3128
+                      }
+                  ],
+        "Text":  "Baerlon",
+        "Width":  106,
+        "Y":  2508,
+        "X":  3128,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2576,
+                          "Height":  47,
+                          "Width":  337,
+                          "Text":  "TWöRIVERS",
+                          "X":  2991
+                      }
+                  ],
+        "Text":  "TWöRIVERS",
+        "Width":  337,
+        "Y":  2576,
+        "X":  2991,
+        "Height":  47
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2643,
+                          "Height":  12,
+                          "Width":  52,
+                          "Text":  "Taren",
+                          "X":  2995
+                      },
+                      {
+                          "Y":  2643,
+                          "Height":  20,
+                          "Width":  52,
+                          "Text":  "Ferry",
+                          "X":  3053
+                      }
+                  ],
+        "Text":  "Taren Ferry",
+        "Width":  110,
+        "Y":  2643,
+        "X":  2995,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2665,
+                          "Height":  16,
+                          "Width":  59,
+                          "Text":  "Watch",
+                          "X":  3009
+                      },
+                      {
+                          "Y":  2665,
+                          "Height":  16,
+                          "Width":  35,
+                          "Text":  "Hill",
+                          "X":  3074
+                      }
+                  ],
+        "Text":  "Watch Hill",
+        "Width":  100,
+        "Y":  2665,
+        "X":  3009,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2707,
+                          "Height":  16,
+                          "Width":  76,
+                          "Text":  "Emond\u0027s",
+                          "X":  2993
+                      },
+                      {
+                          "Y":  2707,
+                          "Height":  16,
+                          "Width":  45,
+                          "Text":  "Field",
+                          "X":  3075
+                      }
+                  ],
+        "Text":  "Emond\u0027s Field",
+        "Width":  127,
+        "Y":  2707,
+        "X":  2993,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2749,
+                          "Height":  26,
+                          "Width":  72,
+                          "Text":  "-white",
+                          "X":  3084
+                      },
+                      {
+                          "Y":  2744,
+                          "Height":  18,
+                          "Width":  65,
+                          "Text":  "River",
+                          "X":  3164
+                      },
+                      {
+                          "Y":  2759,
+                          "Height":  2,
+                          "Width":  4,
+                          "Text":  "-",
+                          "X":  3240
+                      }
+                  ],
+        "Text":  "-white River -",
+        "Width":  160,
+        "Y":  2749,
+        "X":  3084,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2557,
+                          "Height":  12,
+                          "Width":  55,
+                          "Text":  "Tower",
+                          "X":  3552
+                      },
+                      {
+                          "Y":  2554,
+                          "Height":  15,
+                          "Width":  19,
+                          "Text":  "of",
+                          "X":  3613
+                      },
+                      {
+                          "Y":  2553,
+                          "Height":  24,
+                          "Width":  68,
+                          "Text":  "Ghenjei",
+                          "X":  3636
+                      }
+                  ],
+        "Text":  "Tower of Ghenjei",
+        "Width":  152,
+        "Y":  2557,
+        "X":  3552,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2641,
+                          "Height":  27,
+                          "Width":  83,
+                          "Text":  "•illLLS",
+                          "X":  3368
+                      },
+                      {
+                          "Y":  2655,
+                          "Height":  17,
+                          "Width":  31,
+                          "Text":  "OF",
+                          "X":  3460
+                      },
+                      {
+                          "Y":  2660,
+                          "Height":  34,
+                          "Width":  104,
+                          "Text":  "ABSHER",
+                          "X":  3497
+                      }
+                  ],
+        "Text":  "•illLLS OF ABSHER",
+        "Width":  233,
+        "Y":  2641,
+        "X":  3368,
+        "Height":  27
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2647,
+                          "Height":  19,
+                          "Width":  69,
+                          "Text":  "Jornhill",
+                          "X":  4429
+                      }
+                  ],
+        "Text":  "Jornhill",
+        "Width":  69,
+        "Y":  2647,
+        "X":  4429,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2713,
+                          "Height":  14,
+                          "Width":  41,
+                          "Text":  "Kore",
+                          "X":  4520
+                      }
+                  ],
+        "Text":  "Kore",
+        "Width":  41,
+        "Y":  2713,
+        "X":  4520,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2726,
+                          "Height":  19,
+                          "Width":  65,
+                          "Text":  "Sprmgs",
+                          "X":  4521
+                      }
+                  ],
+        "Text":  "Sprmgs",
+        "Width":  65,
+        "Y":  2726,
+        "X":  4521,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2851,
+                          "Height":  12,
+                          "Width":  65,
+                          "Text":  "Breen\u0027s",
+                          "X":  4418
+                      }
+                  ],
+        "Text":  "Breen\u0027s",
+        "Width":  65,
+        "Y":  2851,
+        "X":  4418,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2866,
+                          "Height":  21,
+                          "Width":  61,
+                          "Text":  "Spring",
+                          "X":  4419
+                      }
+                  ],
+        "Text":  "Spring",
+        "Width":  61,
+        "Y":  2866,
+        "X":  4419,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2012,
+                          "Height":  25,
+                          "Width":  44,
+                          "Text":  "Di",
+                          "X":  4789
+                      },
+                      {
+                          "Y":  2012,
+                          "Height":  31,
+                          "Width":  182,
+                          "Text":  "AGONMö1fNTT",
+                          "X":  4832
+                      }
+                  ],
+        "Text":  "Di AGONMö1fNTT",
+        "Width":  225,
+        "Y":  2012,
+        "X":  4789,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2668,
+                          "Height":  19,
+                          "Width":  103,
+                          "Text":  "BRAEM",
+                          "X":  4707
+                      },
+                      {
+                          "Y":  2673,
+                          "Height":  28,
+                          "Width":  82,
+                          "Text":  "wool)",
+                          "X":  4821
+                      }
+                  ],
+        "Text":  "BRAEM wool)",
+        "Width":  196,
+        "Y":  2668,
+        "X":  4707,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2728,
+                          "Height":  16,
+                          "Width":  56,
+                          "Text":  "NEW",
+                          "X":  4703
+                      },
+                      {
+                          "Y":  2728,
+                          "Height":  16,
+                          "Width":  85,
+                          "Text":  "BRAEM",
+                          "X":  4764
+                      }
+                  ],
+        "Text":  "NEW BRAEM",
+        "Width":  146,
+        "Y":  2728,
+        "X":  4703,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2806,
+                          "Height":  47,
+                          "Width":  301,
+                          "Text":  "CAEMLYN",
+                          "X":  4703
+                      }
+                  ],
+        "Text":  "CAEMLYN",
+        "Width":  301,
+        "Y":  2806,
+        "X":  4703,
+        "Height":  47
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2892,
+                          "Height":  13,
+                          "Width":  77,
+                          "Text":  "Farrier\u0027s",
+                          "X":  4780
+                      },
+                      {
+                          "Y":  2893,
+                          "Height":  13,
+                          "Width":  52,
+                          "Text":  "Green",
+                          "X":  4864
+                      }
+                  ],
+        "Text":  "Farrier\u0027s Green",
+        "Width":  136,
+        "Y":  2892,
+        "X":  4780,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2671,
+                          "Height":  15,
+                          "Width":  57,
+                          "Text":  "Jurene",
+                          "X":  5050
+                      }
+                  ],
+        "Text":  "Jurene",
+        "Width":  57,
+        "Y":  2671,
+        "X":  5050,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2694,
+                          "Height":  55,
+                          "Width":  312,
+                          "Text":  "ANDOR",
+                          "X":  4081
+                      }
+                  ],
+        "Text":  "ANDOR",
+        "Width":  312,
+        "Y":  2694,
+        "X":  4081,
+        "Height":  55
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2830,
+                          "Height":  25,
+                          "Width":  105,
+                          "Text":  "fiawkwing\u0027s",
+                          "X":  4115
+                      },
+                      {
+                          "Y":  2836,
+                          "Height":  12,
+                          "Width":  53,
+                          "Text":  "Statue",
+                          "X":  4227
+                      }
+                  ],
+        "Text":  "fiawkwing\u0027s Statue",
+        "Width":  165,
+        "Y":  2830,
+        "X":  4115,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2880,
+                          "Height":  13,
+                          "Width":  50,
+                          "Text":  "Arien",
+                          "X":  4212
+                      }
+                  ],
+        "Text":  "Arien",
+        "Width":  50,
+        "Y":  2880,
+        "X":  4212,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2856,
+                          "Height":  15,
+                          "Width":  65,
+                          "Text":  "FOUR",
+                          "X":  4311
+                      }
+                  ],
+        "Text":  "FOUR",
+        "Width":  65,
+        "Y":  2856,
+        "X":  4311,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2872,
+                          "Height":  16,
+                          "Width":  74,
+                          "Text":  "KINCS",
+                          "X":  4310
+                      }
+                  ],
+        "Text":  "KINCS",
+        "Width":  74,
+        "Y":  2872,
+        "X":  4310,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1555,
+                          "Height":  18,
+                          "Width":  84,
+                          "Text":  "FIELD",
+                          "X":  5761
+                      },
+                      {
+                          "Y":  1562,
+                          "Height":  11,
+                          "Width":  23,
+                          "Text":  "OF",
+                          "X":  5855
+                      },
+                      {
+                          "Y":  1553,
+                          "Height":  19,
+                          "Width":  124,
+                          "Text":  "TALIDAR",
+                          "X":  5887
+                      }
+                  ],
+        "Text":  "FIELD OF TALIDAR",
+        "Width":  250,
+        "Y":  1555,
+        "X":  5761,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1660,
+                          "Height":  16,
+                          "Width":  53,
+                          "Text":  "Harad",
+                          "X":  5719
+                      },
+                      {
+                          "Y":  1660,
+                          "Height":  16,
+                          "Width":  53,
+                          "Text":  "Dakar",
+                          "X":  5777
+                      }
+                  ],
+        "Text":  "Harad Dakar",
+        "Width":  111,
+        "Y":  1660,
+        "X":  5719,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2193,
+                          "Height":  15,
+                          "Width":  16,
+                          "Text":  "G",
+                          "X":  5700
+                      },
+                      {
+                          "Y":  2181,
+                          "Height":  25,
+                          "Width":  58,
+                          "Text":  "ae\\iß",
+                          "X":  5717
+                      }
+                  ],
+        "Text":  "G ae\\iß",
+        "Width":  75,
+        "Y":  2193,
+        "X":  5700,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2252,
+                          "Height":  16,
+                          "Width":  75,
+                          "Text":  "—Eianrod",
+                          "X":  5801
+                      }
+                  ],
+        "Text":  "—Eianrod",
+        "Width":  75,
+        "Y":  2252,
+        "X":  5801,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2796,
+                          "Height":  14,
+                          "Width":  80,
+                          "Text":  "Cantoine",
+                          "X":  5915
+                      }
+                  ],
+        "Text":  "Cantoine",
+        "Width":  80,
+        "Y":  2796,
+        "X":  5915,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3321,
+                          "Height":  15,
+                          "Width":  29,
+                          "Text":  "Jen",
+                          "X":  5679
+                      },
+                      {
+                          "Y":  3317,
+                          "Height":  15,
+                          "Width":  40,
+                          "Text":  "shin",
+                          "X":  5709
+                      }
+                  ],
+        "Text":  "Jen shin",
+        "Width":  70,
+        "Y":  3321,
+        "X":  5679,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1650,
+                          "Height":  14,
+                          "Width":  80,
+                          "Text":  "Lantoine",
+                          "X":  6127
+                      }
+                  ],
+        "Text":  "Lantoine",
+        "Width":  80,
+        "Y":  1650,
+        "X":  6127,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1858,
+                          "Height":  19,
+                          "Width":  67,
+                          "Text":  "Yong-en",
+                          "X":  6280
+                      }
+                  ],
+        "Text":  "Yong-en",
+        "Width":  67,
+        "Y":  1858,
+        "X":  6280,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1914,
+                          "Height":  13,
+                          "Width":  69,
+                          "Text":  "Yontian",
+                          "X":  6048
+                      }
+                  ],
+        "Text":  "Yontian",
+        "Width":  69,
+        "Y":  1914,
+        "X":  6048,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1965,
+                          "Height":  26,
+                          "Width":  76,
+                          "Text":  "PASS",
+                          "X":  6381
+                      }
+                  ],
+        "Text":  "PASS",
+        "Width":  76,
+        "Y":  1965,
+        "X":  6381,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2033,
+                          "Height":  15,
+                          "Width":  54,
+                          "Text":  "Selean",
+                          "X":  6222
+                      }
+                  ],
+        "Text":  "Selean",
+        "Width":  54,
+        "Y":  2033,
+        "X":  6222,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2242,
+                          "Height":  24,
+                          "Width":  82,
+                          "Text":  "Mashöng",
+                          "X":  6043
+                      }
+                  ],
+        "Text":  "Mashöng",
+        "Width":  82,
+        "Y":  2242,
+        "X":  6043,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2464,
+                          "Height":  21,
+                          "Width":  77,
+                          "Text":  "Sintiang",
+                          "X":  6046
+                      }
+                  ],
+        "Text":  "Sintiang",
+        "Width":  77,
+        "Y":  2464,
+        "X":  6046,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3044,
+                          "Height":  15,
+                          "Width":  81,
+                          "Text":  "Kolomon",
+                          "X":  6012
+                      }
+                  ],
+        "Text":  "Kolomon",
+        "Width":  81,
+        "Y":  3044,
+        "X":  6012,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3366,
+                          "Height":  21,
+                          "Width":  69,
+                          "Text":  "Daiting",
+                          "X":  6104
+                      }
+                  ],
+        "Text":  "Daiting",
+        "Width":  69,
+        "Y":  3366,
+        "X":  6104,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1656,
+                          "Height":  19,
+                          "Width":  52,
+                          "Text":  "A!cair",
+                          "X":  6793
+                      },
+                      {
+                          "Y":  1656,
+                          "Height":  15,
+                          "Width":  29,
+                          "Text":  "Dal",
+                          "X":  6851
+                      }
+                  ],
+        "Text":  "A!cair Dal",
+        "Width":  87,
+        "Y":  1656,
+        "X":  6793,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  1952,
+                          "Height":  15,
+                          "Width":  38,
+                          "Text":  "Cold",
+                          "X":  6865
+                      },
+                      {
+                          "Y":  1952,
+                          "Height":  15,
+                          "Width":  55,
+                          "Text":  "Rocks",
+                          "X":  6909
+                      },
+                      {
+                          "Y":  1952,
+                          "Height":  15,
+                          "Width":  43,
+                          "Text":  "Hold",
+                          "X":  6970
+                      }
+                  ],
+        "Text":  "Cold Rocks Hold",
+        "Width":  148,
+        "Y":  1952,
+        "X":  6865,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2000,
+                          "Height":  13,
+                          "Width":  47,
+                          "Text":  "Taien",
+                          "X":  6517
+                      }
+                  ],
+        "Text":  "Taien",
+        "Width":  47,
+        "Y":  2000,
+        "X":  6517,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2254,
+                          "Height":  25,
+                          "Width":  217,
+                          "Text":  "RHUIDEAN",
+                          "X":  6555
+                      }
+                  ],
+        "Text":  "RHUIDEAN",
+        "Width":  217,
+        "Y":  2254,
+        "X":  6555,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2390,
+                          "Height":  11,
+                          "Width":  43,
+                          "Text":  "In-Ire",
+                          "X":  6772
+                      },
+                      {
+                          "Y":  2387,
+                          "Height":  14,
+                          "Width":  54,
+                          "Text":  "SQan-d-",
+                          "X":  6821
+                      }
+                  ],
+        "Text":  "In-Ire SQan-d-",
+        "Width":  103,
+        "Y":  2390,
+        "X":  6772,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2820,
+                          "Height":  37,
+                          "Width":  158,
+                          "Text":  "AIEL",
+                          "X":  6716
+                      }
+                  ],
+        "Text":  "AIEL",
+        "Width":  158,
+        "Y":  2820,
+        "X":  6716,
+        "Height":  37
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2857,
+                          "Height":  43,
+                          "Width":  217,
+                          "Text":  "WASTE",
+                          "X":  6684
+                      }
+                  ],
+        "Text":  "WASTE",
+        "Width":  217,
+        "Y":  2857,
+        "X":  6684,
+        "Height":  43
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2778,
+                          "Height":  11,
+                          "Width":  56,
+                          "Text":  "Deven",
+                          "X":  2914
+                      },
+                      {
+                          "Y":  2774,
+                          "Height":  15,
+                          "Width":  43,
+                          "Text":  "Ride",
+                          "X":  2975
+                      }
+                  ],
+        "Text":  "Deven Ride",
+        "Width":  104,
+        "Y":  2778,
+        "X":  2914,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2834,
+                          "Height":  23,
+                          "Width":  135,
+                          "Text":  "FOREST",
+                          "X":  2911
+                      },
+                      {
+                          "Y":  2831,
+                          "Height":  26,
+                          "Width":  61,
+                          "Text":  "OFE",
+                          "X":  3064
+                      }
+                  ],
+        "Text":  "FOREST OFE",
+        "Width":  214,
+        "Y":  2834,
+        "X":  2911,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2856,
+                          "Height":  27,
+                          "Width":  94,
+                          "Text":  "SHAD",
+                          "X":  2919
+                      },
+                      {
+                          "Y":  2860,
+                          "Height":  23,
+                          "Width":  70,
+                          "Text":  "OWS",
+                          "X":  3020
+                      }
+                  ],
+        "Text":  "SHAD OWS",
+        "Width":  171,
+        "Y":  2856,
+        "X":  2919,
+        "Height":  27
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2967,
+                          "Height":  17,
+                          "Width":  68,
+                          "Text":  "Jinsiun",
+                          "X":  2903
+                      }
+                  ],
+        "Text":  "Jinsiun",
+        "Width":  68,
+        "Y":  2967,
+        "X":  2903,
+        "Height":  17
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3080,
+                          "Height":  39,
+                          "Width":  266,
+                          "Text":  "JEHANNAH",
+                          "X":  3098
+                      },
+                      {
+                          "Y":  3073,
+                          "Height":  22,
+                          "Width":  26,
+                          "Text":  "{9",
+                          "X":  3419
+                      }
+                  ],
+        "Text":  "JEHANNAH {9",
+        "Width":  347,
+        "Y":  3080,
+        "X":  3098,
+        "Height":  39
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3187,
+                          "Height":  9,
+                          "Width":  38,
+                          "Text":  "arra",
+                          "X":  2933
+                      }
+                  ],
+        "Text":  "arra",
+        "Width":  38,
+        "Y":  3187,
+        "X":  2933,
+        "Height":  9
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3213,
+                          "Height":  56,
+                          "Width":  275,
+                          "Text":  "GHEAL",
+                          "X":  2893
+                      },
+                      {
+                          "Y":  3212,
+                          "Height":  44,
+                          "Width":  54,
+                          "Text":  "A",
+                          "X":  3233
+                      }
+                  ],
+        "Text":  "GHEAL A",
+        "Width":  394,
+        "Y":  3213,
+        "X":  2893,
+        "Height":  56
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3280,
+                          "Height":  15,
+                          "Width":  50,
+                          "Text":  "Sidon",
+                          "X":  3236
+                      }
+                  ],
+        "Text":  "Sidon",
+        "Width":  50,
+        "Y":  3280,
+        "X":  3236,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2882,
+                          "Height":  40,
+                          "Width":  129,
+                          "Text":  "Aringill",
+                          "X":  5101
+                      }
+                  ],
+        "Text":  "Aringill",
+        "Width":  129,
+        "Y":  2882,
+        "X":  5101,
+        "Height":  40
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2936,
+                          "Height":  14,
+                          "Width":  97,
+                          "Text":  "Maerone",
+                          "X":  5137
+                      }
+                  ],
+        "Text":  "Maerone",
+        "Width":  97,
+        "Y":  2936,
+        "X":  5137,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2933,
+                          "Height":  16,
+                          "Width":  69,
+                          "Text":  "Cullen\u0027s",
+                          "X":  4589
+                      },
+                      {
+                          "Y":  2935,
+                          "Height":  21,
+                          "Width":  78,
+                          "Text":  "Crossing",
+                          "X":  4664
+                      },
+                      {
+                          "Y":  2939,
+                          "Height":  12,
+                          "Width":  13,
+                          "Text":  "e-",
+                          "X":  4782
+                      }
+                  ],
+        "Text":  "Cullen\u0027s Crossing e-",
+        "Width":  206,
+        "Y":  2933,
+        "X":  4589,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2934,
+                          "Height":  16,
+                          "Width":  38,
+                          "Text":  "Sher",
+                          "X":  4484
+                      },
+                      {
+                          "Y":  2941,
+                          "Height":  9,
+                          "Width":  20,
+                          "Text":  "an",
+                          "X":  4523
+                      }
+                  ],
+        "Text":  "Sher an",
+        "Width":  59,
+        "Y":  2934,
+        "X":  4484,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2976,
+                          "Height":  15,
+                          "Width":  64,
+                          "Text":  "Harlon",
+                          "X":  4587
+                      }
+                  ],
+        "Text":  "Harlon",
+        "Width":  64,
+        "Y":  2976,
+        "X":  4587,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2983,
+                          "Height":  19,
+                          "Width":  79,
+                          "Text":  "HILLS",
+                          "X":  4863
+                      }
+                  ],
+        "Text":  "HILLS",
+        "Width":  79,
+        "Y":  2983,
+        "X":  4863,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2989,
+                          "Height":  15,
+                          "Width":  52,
+                          "Text":  "Black",
+                          "X":  4699
+                      },
+                      {
+                          "Y":  2992,
+                          "Height":  12,
+                          "Width":  55,
+                          "Text":  "Tower",
+                          "X":  4756
+                      }
+                  ],
+        "Text":  "Black Tower",
+        "Width":  112,
+        "Y":  2989,
+        "X":  4699,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2992,
+                          "Height":  16,
+                          "Width":  41,
+                          "Text":  "Brid",
+                          "X":  4587
+                      },
+                      {
+                          "Y":  2999,
+                          "Height":  9,
+                          "Width":  9,
+                          "Text":  "e",
+                          "X":  4638
+                      }
+                  ],
+        "Text":  "Brid e",
+        "Width":  60,
+        "Y":  2992,
+        "X":  4587,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3022,
+                          "Height":  15,
+                          "Width":  46,
+                          "Text":  "Forel",
+                          "X":  4540
+                      },
+                      {
+                          "Y":  3022,
+                          "Height":  15,
+                          "Width":  66,
+                          "Text":  "Market",
+                          "X":  4592
+                      }
+                  ],
+        "Text":  "Forel Market",
+        "Width":  118,
+        "Y":  3022,
+        "X":  4540,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3054,
+                          "Height":  11,
+                          "Width":  25,
+                          "Text":  "Bu",
+                          "X":  4512
+                      },
+                      {
+                          "Y":  3041,
+                          "Height":  32,
+                          "Width":  54,
+                          "Text":  "tylill",
+                          "X":  4538
+                      }
+                  ],
+        "Text":  "Bu tylill",
+        "Width":  80,
+        "Y":  3054,
+        "X":  4512,
+        "Height":  11
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3162,
+                          "Height":  87,
+                          "Width":  395,
+                          "Text":  "TALABON",
+                          "X":  2008
+                      }
+                  ],
+        "Text":  "TALABON",
+        "Width":  395,
+        "Y":  3162,
+        "X":  2008,
+        "Height":  87
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3334,
+                          "Height":  19,
+                          "Width":  83,
+                          "Text":  "ElmOra",
+                          "X":  2211
+                      }
+                  ],
+        "Text":  "ElmOra",
+        "Width":  83,
+        "Y":  3334,
+        "X":  2211,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3686,
+                          "Height":  16,
+                          "Width":  75,
+                          "Text":  "Shadoon",
+                          "X":  2340
+                      }
+                  ],
+        "Text":  "Shadoon",
+        "Width":  75,
+        "Y":  3686,
+        "X":  2340,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3235,
+                          "Height":  23,
+                          "Width":  94,
+                          "Text":  "Shangloon",
+                          "X":  2686
+                      }
+                  ],
+        "Text":  "Shangloon",
+        "Width":  94,
+        "Y":  3235,
+        "X":  2686,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3296,
+                          "Height":  15,
+                          "Width":  58,
+                          "Text":  "Bethal",
+                          "X":  3131
+                      }
+                  ],
+        "Text":  "Bethal",
+        "Width":  58,
+        "Y":  3296,
+        "X":  3131,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3360,
+                          "Height":  15,
+                          "Width":  95,
+                          "Text":  "Cosamellet.",
+                          "X":  2956
+                      }
+                  ],
+        "Text":  "Cosamellet.",
+        "Width":  95,
+        "Y":  3360,
+        "X":  2956,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3429,
+                          "Height":  15,
+                          "Width":  47,
+                          "Text":  "Abila",
+                          "X":  3069
+                      }
+                  ],
+        "Text":  "Abila",
+        "Width":  47,
+        "Y":  3429,
+        "X":  3069,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3455,
+                          "Height":  19,
+                          "Width":  70,
+                          "Text":  "Jeramel",
+                          "X":  2919
+                      }
+                  ],
+        "Text":  "Jeramel",
+        "Width":  70,
+        "Y":  3455,
+        "X":  2919,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3525,
+                          "Height":  32,
+                          "Width":  116,
+                          "Text":  "EOEEST",
+                          "X":  3146
+                      }
+                  ],
+        "Text":  "EOEEST",
+        "Width":  116,
+        "Y":  3525,
+        "X":  3146,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3595,
+                          "Height":  39,
+                          "Width":  225,
+                          "Text":  "A-MADOR",
+                          "X":  2863
+                      }
+                  ],
+        "Text":  "A-MADOR",
+        "Width":  225,
+        "Y":  3595,
+        "X":  2863,
+        "Height":  39
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3632,
+                          "Height":  16,
+                          "Width":  58,
+                          "Text":  "Sienda",
+                          "X":  2987
+                      }
+                  ],
+        "Text":  "Sienda",
+        "Width":  58,
+        "Y":  3632,
+        "X":  2987,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3660,
+                          "Height":  16,
+                          "Width":  58,
+                          "Text":  "Bellon",
+                          "X":  2850
+                      }
+                  ],
+        "Text":  "Bellon",
+        "Width":  58,
+        "Y":  3660,
+        "X":  2850,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3676,
+                          "Height":  54,
+                          "Width":  423,
+                          "Text":  "AMADICIA",
+                          "X":  2778
+                      }
+                  ],
+        "Text":  "AMADICIA",
+        "Width":  423,
+        "Y":  3676,
+        "X":  2778,
+        "Height":  54
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3353,
+                          "Height":  16,
+                          "Width":  59,
+                          "Text":  "Willar",
+                          "X":  3421
+                      }
+                  ],
+        "Text":  "Willar",
+        "Width":  59,
+        "Y":  3353,
+        "X":  3421,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3421,
+                          "Height":  19,
+                          "Width":  98,
+                          "Text":  "Boannda",
+                          "X":  3294
+                      }
+                  ],
+        "Text":  "Boannda",
+        "Width":  98,
+        "Y":  3421,
+        "X":  3294,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3481,
+                          "Height":  13,
+                          "Width":  19,
+                          "Text":  "So",
+                          "X":  3338
+                      },
+                      {
+                          "Y":  3478,
+                          "Height":  16,
+                          "Width":  55,
+                          "Text":  "Habor",
+                          "X":  3363
+                      }
+                  ],
+        "Text":  "So Habor",
+        "Width":  80,
+        "Y":  3481,
+        "X":  3338,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3637,
+                          "Height":  12,
+                          "Width":  10,
+                          "Text":  "C",
+                          "X":  3338
+                      },
+                      {
+                          "Y":  3633,
+                          "Height":  16,
+                          "Width":  57,
+                          "Text":  "rmaed",
+                          "X":  3359
+                      }
+                  ],
+        "Text":  "C rmaed",
+        "Width":  78,
+        "Y":  3637,
+        "X":  3338,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3710,
+                          "Height":  19,
+                          "Width":  63,
+                          "Text":  "Salidar",
+                          "X":  3403
+                      }
+                  ],
+        "Text":  "Salidar",
+        "Width":  63,
+        "Y":  3710,
+        "X":  3403,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3755,
+                          "Height":  20,
+                          "Width":  65,
+                          "Text":  "Brytan",
+                          "X":  3437
+                      }
+                  ],
+        "Text":  "Brytan",
+        "Width":  65,
+        "Y":  3755,
+        "X":  3437,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3808,
+                          "Height":  12,
+                          "Width":  19,
+                          "Text":  "So",
+                          "X":  3340
+                      },
+                      {
+                          "Y":  3804,
+                          "Height":  17,
+                          "Width":  45,
+                          "Text":  "Eban",
+                          "X":  3365
+                      }
+                  ],
+        "Text":  "So Eban",
+        "Width":  70,
+        "Y":  3808,
+        "X":  3340,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3397,
+                          "Height":  16,
+                          "Width":  22,
+                          "Text":  "all",
+                          "X":  3696
+                      },
+                      {
+                          "Y":  3404,
+                          "Height":  9,
+                          "Width":  21,
+                          "Text":  "an",
+                          "X":  3719
+                      }
+                  ],
+        "Text":  "all an",
+        "Width":  44,
+        "Y":  3397,
+        "X":  3696,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3413,
+                          "Height":  13,
+                          "Width":  9,
+                          "Text":  "S",
+                          "X":  3548
+                      },
+                      {
+                          "Y":  3410,
+                          "Height":  16,
+                          "Width":  49,
+                          "Text":  "an-mah",
+                          "X":  3558
+                      }
+                  ],
+        "Text":  "S an-mah",
+        "Width":  59,
+        "Y":  3413,
+        "X":  3548,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2831,
+                          "Height":  40,
+                          "Width":  201,
+                          "Text":  "Whitebridge",
+                          "X":  3790
+                      }
+                  ],
+        "Text":  "Whitebridge",
+        "Width":  201,
+        "Y":  2831,
+        "X":  3790,
+        "Height":  40
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3378,
+                          "Height":  15,
+                          "Width":  64,
+                          "Text":  "Reine",
+                          "X":  3887
+                      },
+                      {
+                          "Y":  3382,
+                          "Height":  10,
+                          "Width":  16,
+                          "Text":  "n",
+                          "X":  3952
+                      }
+                  ],
+        "Text":  "Reine n",
+        "Width":  81,
+        "Y":  3378,
+        "X":  3887,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3663,
+                          "Height":  18,
+                          "Width":  18,
+                          "Text":  "o",
+                          "X":  3878
+                      }
+                  ],
+        "Text":  "o",
+        "Width":  18,
+        "Y":  3663,
+        "X":  3878,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3684,
+                          "Height":  14,
+                          "Width":  34,
+                          "Text":  "Moi",
+                          "X":  3796
+                      },
+                      {
+                          "Y":  3689,
+                          "Height":  9,
+                          "Width":  29,
+                          "Text":  "sen",
+                          "X":  3831
+                      }
+                  ],
+        "Text":  "Moi sen",
+        "Width":  64,
+        "Y":  3684,
+        "X":  3796,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3056,
+                          "Height":  13,
+                          "Width":  125,
+                          "Text":  "CRAFENDALE",
+                          "X":  4728
+                      }
+                  ],
+        "Text":  "CRAFENDALE",
+        "Width":  125,
+        "Y":  3056,
+        "X":  4728,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3084,
+                          "Height":  27,
+                          "Width":  150,
+                          "Text":  "\u0027CT-IISHE\u0026",
+                          "X":  4879
+                      }
+                  ],
+        "Text":  "\u0027CT-IISHE\u0026",
+        "Width":  150,
+        "Y":  3084,
+        "X":  4879,
+        "Height":  27
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3116,
+                          "Height":  30,
+                          "Width":  45,
+                          "Text":  "SO",
+                          "X":  4873
+                      },
+                      {
+                          "Y":  3111,
+                          "Height":  37,
+                          "Width":  145,
+                          "Text":  "UNTAI\u0026/",
+                          "X":  4918
+                      }
+                  ],
+        "Text":  "SO UNTAI\u0026/",
+        "Width":  190,
+        "Y":  3116,
+        "X":  4873,
+        "Height":  30
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3440,
+                          "Height":  25,
+                          "Width":  63,
+                          "Text":  "Far",
+                          "X":  4804
+                      },
+                      {
+                          "Y":  3433,
+                          "Height":  48,
+                          "Width":  167,
+                          "Text":  "Madding",
+                          "X":  4879
+                      }
+                  ],
+        "Text":  "Far Madding",
+        "Width":  242,
+        "Y":  3440,
+        "X":  4804,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3498,
+                          "Height":  13,
+                          "Width":  60,
+                          "Text":  "Serana",
+                          "X":  2474
+                      }
+                  ],
+        "Text":  "Serana",
+        "Width":  60,
+        "Y":  3498,
+        "X":  2474,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3555,
+                          "Height":  15,
+                          "Width":  61,
+                          "Text":  "Nassad",
+                          "X":  2577
+                      }
+                  ],
+        "Text":  "Nassad",
+        "Width":  61,
+        "Y":  3555,
+        "X":  2577,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3691,
+                          "Height":  16,
+                          "Width":  74,
+                          "Text":  "Alniizar",
+                          "X":  2649
+                      }
+                  ],
+        "Text":  "Alniizar",
+        "Width":  74,
+        "Y":  3691,
+        "X":  2649,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3755,
+                          "Height":  2,
+                          "Width":  2,
+                          "Text":  ".",
+                          "X":  2654
+                      },
+                      {
+                          "Y":  3740,
+                          "Height":  22,
+                          "Width":  82,
+                          "Text":  "Sharia",
+                          "X":  2660
+                      }
+                  ],
+        "Text":  ". Sharia",
+        "Width":  88,
+        "Y":  3755,
+        "X":  2654,
+        "Height":  2
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3496,
+                          "Height":  14,
+                          "Width":  51,
+                          "Text":  "Ionin",
+                          "X":  3601
+                      },
+                      {
+                          "Y":  3496,
+                          "Height":  21,
+                          "Width":  62,
+                          "Text":  "Spring",
+                          "X":  3658
+                      }
+                  ],
+        "Text":  "Ionin Spring",
+        "Width":  119,
+        "Y":  3496,
+        "X":  3601,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3625,
+                          "Height":  17,
+                          "Width":  110,
+                          "Text":  "uW\u0026LDEN",
+                          "X":  3579
+                      }
+                  ],
+        "Text":  "uW\u0026LDEN",
+        "Width":  110,
+        "Y":  3625,
+        "X":  3579,
+        "Height":  17
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  2981,
+                          "Height":  16,
+                          "Width":  75,
+                          "Text":  "DÅnabar",
+                          "X":  4364
+                      }
+                  ],
+        "Text":  "DÅnabar",
+        "Width":  75,
+        "Y":  2981,
+        "X":  4364,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3019,
+                          "Height":  26,
+                          "Width":  159,
+                          "Text":  "SPLINTEiU\u0027Æ)",
+                          "X":  4107
+                      },
+                      {
+                          "Y":  3010,
+                          "Height":  26,
+                          "Width":  77,
+                          "Text":  "HILLS",
+                          "X":  4274
+                      }
+                  ],
+        "Text":  "SPLINTEiU\u0027Æ) HILLS",
+        "Width":  244,
+        "Y":  3019,
+        "X":  4107,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3033,
+                          "Height":  16,
+                          "Width":  64,
+                          "Text":  "Damen",
+                          "X":  4354
+                      },
+                      {
+                          "Y":  3040,
+                          "Height":  9,
+                          "Width":  21,
+                          "Text":  "en",
+                          "X":  4419
+                      }
+                  ],
+        "Text":  "Damen en",
+        "Width":  86,
+        "Y":  3033,
+        "X":  4354,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3082,
+                          "Height":  13,
+                          "Width":  76,
+                          "Text":  "Trustair",
+                          "X":  4118
+                      }
+                  ],
+        "Text":  "Trustair",
+        "Width":  76,
+        "Y":  3082,
+        "X":  4118,
+        "Height":  13
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3104,
+                          "Height":  23,
+                          "Width":  102,
+                          "Text":  "Hinderstap",
+                          "X":  4088
+                      }
+                  ],
+        "Text":  "Hinderstap",
+        "Width":  102,
+        "Y":  3104,
+        "X":  4088,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3234,
+                          "Height":  16,
+                          "Width":  84,
+                          "Text":  "MINDE",
+                          "X":  4324
+                      }
+                  ],
+        "Text":  "MINDE",
+        "Width":  84,
+        "Y":  3234,
+        "X":  4324,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3303,
+                          "Height":  31,
+                          "Width":  202,
+                          "Text":  "LUGARD",
+                          "X":  4147
+                      }
+                  ],
+        "Text":  "LUGARD",
+        "Width":  202,
+        "Y":  3303,
+        "X":  4147,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3427,
+                          "Height":  65,
+                          "Width":  419,
+                          "Text":  "MURANDY",
+                          "X":  4036
+                      }
+                  ],
+        "Text":  "MURANDY",
+        "Width":  419,
+        "Y":  3427,
+        "X":  4036,
+        "Height":  65
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3514,
+                          "Height":  16,
+                          "Width":  134,
+                          "Text":  "INISHLINN",
+                          "X":  4131
+                      }
+                  ],
+        "Text":  "INISHLINN",
+        "Width":  134,
+        "Y":  3514,
+        "X":  4131,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3732,
+                          "Height":  15,
+                          "Width":  64,
+                          "Text":  "Sabinel",
+                          "X":  4239
+                      }
+                  ],
+        "Text":  "Sabinel",
+        "Width":  64,
+        "Y":  3732,
+        "X":  4239,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3787,
+                          "Height":  45,
+                          "Width":  54,
+                          "Text":  "A",
+                          "X":  3614
+                      },
+                      {
+                          "Y":  3787,
+                          "Height":  45,
+                          "Width":  46,
+                          "Text":  "L",
+                          "X":  3673
+                      },
+                      {
+                          "Y":  3784,
+                          "Height":  50,
+                          "Width":  217,
+                          "Text":  "TARA",
+                          "X":  3725
+                      }
+                  ],
+        "Text":  "A L TARA",
+        "Width":  328,
+        "Y":  3787,
+        "X":  3614,
+        "Height":  45
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3792,
+                          "Height":  28,
+                          "Width":  153,
+                          "Text":  "PLAINS",
+                          "X":  4656
+                      },
+                      {
+                          "Y":  3793,
+                          "Height":  17,
+                          "Width":  29,
+                          "Text":  "OF",
+                          "X":  4826
+                      }
+                  ],
+        "Text":  "PLAINS OF",
+        "Width":  199,
+        "Y":  3792,
+        "X":  4656,
+        "Height":  28
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3815,
+                          "Height":  32,
+                          "Width":  181,
+                          "Text":  "MAREDO",
+                          "X":  4665
+                      }
+                  ],
+        "Text":  "MAREDO",
+        "Width":  181,
+        "Y":  3815,
+        "X":  4665,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3934,
+                          "Height":  34,
+                          "Width":  103,
+                          "Text":  "Btaddira",
+                          "X":  210
+                      }
+                  ],
+        "Text":  "Btaddira",
+        "Width":  103,
+        "Y":  3934,
+        "X":  210,
+        "Height":  34
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3488,
+                          "Height":  26,
+                          "Width":  197,
+                          "Text":  "•HADDON",
+                          "X":  5350
+                      },
+                      {
+                          "Y":  3489,
+                          "Height":  21,
+                          "Width":  87,
+                          "Text":  "MIR",
+                          "X":  5566
+                      },
+                      {
+                          "Y":  3490,
+                          "Height":  21,
+                          "Width":  26,
+                          "Text":  "K",
+                          "X":  5659
+                      }
+                  ],
+        "Text":  "•HADDON MIR K",
+        "Width":  335,
+        "Y":  3488,
+        "X":  5350,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3857,
+                          "Height":  50,
+                          "Width":  231,
+                          "Text":  "TEAR",
+                          "X":  5333
+                      }
+                  ],
+        "Text":  "TEAR",
+        "Width":  231,
+        "Y":  3857,
+        "X":  5333,
+        "Height":  50
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3970,
+                          "Height":  31,
+                          "Width":  131,
+                          "Text":  "TEAR",
+                          "X":  5246
+                      }
+                  ],
+        "Text":  "TEAR",
+        "Width":  131,
+        "Y":  3970,
+        "X":  5246,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3936,
+                          "Height":  31,
+                          "Width":  121,
+                          "Text":  "Children",
+                          "X":  537
+                      },
+                      {
+                          "Y":  3952,
+                          "Height":  21,
+                          "Width":  32,
+                          "Text":  "of",
+                          "X":  668
+                      }
+                  ],
+        "Text":  "Children of",
+        "Width":  163,
+        "Y":  3936,
+        "X":  537,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3965,
+                          "Height":  25,
+                          "Width":  48,
+                          "Text":  "the",
+                          "X":  544
+                      },
+                      {
+                          "Y":  3966,
+                          "Height":  33,
+                          "Width":  78,
+                          "Text":  "Light",
+                          "X":  601
+                      }
+                  ],
+        "Text":  "the Light",
+        "Width":  135,
+        "Y":  3965,
+        "X":  544,
+        "Height":  25
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4204,
+                          "Height":  32,
+                          "Width":  203,
+                          "Text":  "CAPITAL",
+                          "X":  391
+                      }
+                  ],
+        "Text":  "CAPITAL",
+        "Width":  203,
+        "Y":  4204,
+        "X":  391,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4305,
+                          "Height":  21,
+                          "Width":  76,
+                          "Text":  "CITY",
+                          "X":  392
+                      }
+                  ],
+        "Text":  "CITY",
+        "Width":  76,
+        "Y":  4305,
+        "X":  392,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4381,
+                          "Height":  23,
+                          "Width":  132,
+                          "Text":  "Town/Vi11age",
+                          "X":  391
+                      }
+                  ],
+        "Text":  "Town/Vi11age",
+        "Width":  132,
+        "Y":  4381,
+        "X":  391,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4459,
+                          "Height":  23,
+                          "Width":  79,
+                          "Text":  "Steading",
+                          "X":  392
+                      }
+                  ],
+        "Text":  "Steading",
+        "Width":  79,
+        "Y":  4459,
+        "X":  392,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4521,
+                          "Height":  20,
+                          "Width":  77,
+                          "Text":  "Waygate",
+                          "X":  391
+                      }
+                  ],
+        "Text":  "Waygate",
+        "Width":  77,
+        "Y":  4521,
+        "X":  391,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4596,
+                          "Height":  16,
+                          "Width":  54,
+                          "Text":  "Portal",
+                          "X":  392
+                      },
+                      {
+                          "Y":  4599,
+                          "Height":  13,
+                          "Width":  49,
+                          "Text":  "Stone",
+                          "X":  453
+                      }
+                  ],
+        "Text":  "Portal Stone",
+        "Width":  110,
+        "Y":  4596,
+        "X":  392,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4688,
+                          "Height":  14,
+                          "Width":  47,
+                          "Text":  "Ruin",
+                          "X":  392
+                      }
+                  ],
+        "Text":  "Ruin",
+        "Width":  47,
+        "Y":  4688,
+        "X":  392,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4778,
+                          "Height":  16,
+                          "Width":  76,
+                          "Text":  "Choeden",
+                          "X":  389
+                      },
+                      {
+                          "Y":  4778,
+                          "Height":  16,
+                          "Width":  31,
+                          "Text":  "Kal",
+                          "X":  471
+                      }
+                  ],
+        "Text":  "Choeden Kal",
+        "Width":  113,
+        "Y":  4778,
+        "X":  389,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4854,
+                          "Height":  23,
+                          "Width":  99,
+                          "Text":  "Significant",
+                          "X":  390
+                      }
+                  ],
+        "Text":  "Significant",
+        "Width":  99,
+        "Y":  4854,
+        "X":  390,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4877,
+                          "Height":  17,
+                          "Width":  96,
+                          "Text":  "Landmark",
+                          "X":  389
+                      }
+                  ],
+        "Text":  "Landmark",
+        "Width":  96,
+        "Y":  4877,
+        "X":  389,
+        "Height":  17
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4944,
+                          "Height":  16,
+                          "Width":  60,
+                          "Text":  "Border",
+                          "X":  392
+                      }
+                  ],
+        "Text":  "Border",
+        "Width":  60,
+        "Y":  4944,
+        "X":  392,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3883,
+                          "Height":  12,
+                          "Width":  37,
+                          "Text":  "Sore",
+                          "X":  3487
+                      },
+                      {
+                          "Y":  3882,
+                          "Height":  13,
+                          "Width":  55,
+                          "Text":  "maine",
+                          "X":  3525
+                      }
+                  ],
+        "Text":  "Sore maine",
+        "Width":  93,
+        "Y":  3883,
+        "X":  3487,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3935,
+                          "Height":  15,
+                          "Width":  49,
+                          "Text":  "derin",
+                          "X":  3428
+                      }
+                  ],
+        "Text":  "derin",
+        "Width":  49,
+        "Y":  3935,
+        "X":  3428,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3951,
+                          "Height":  12,
+                          "Width":  35,
+                          "Text":  "Mos",
+                          "X":  3292
+                      },
+                      {
+                          "Y":  3954,
+                          "Height":  9,
+                          "Width":  18,
+                          "Text":  "ra",
+                          "X":  3329
+                      }
+                  ],
+        "Text":  "Mos ra",
+        "Width":  55,
+        "Y":  3951,
+        "X":  3292,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3989,
+                          "Height":  14,
+                          "Width":  82,
+                          "Text":  "Runnien",
+                          "X":  3410
+                      },
+                      {
+                          "Y":  3989,
+                          "Height":  21,
+                          "Width":  77,
+                          "Text":  "Crossing",
+                          "X":  3497
+                      }
+                  ],
+        "Text":  "Runnien Crossing",
+        "Width":  164,
+        "Y":  3989,
+        "X":  3410,
+        "Height":  14
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4014,
+                          "Height":  19,
+                          "Width":  60,
+                          "Text":  "Jurado",
+                          "X":  3409
+                      },
+                      {
+                          "Y":  4020,
+                          "Height":  9,
+                          "Width":  9,
+                          "Text":  "r",
+                          "X":  3470
+                      }
+                  ],
+        "Text":  "Jurado r",
+        "Width":  70,
+        "Y":  4014,
+        "X":  3409,
+        "Height":  19
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3925,
+                          "Height":  26,
+                          "Width":  144,
+                          "Text":  "uPIRLON",
+                          "X":  4409
+                      }
+                  ],
+        "Text":  "uPIRLON",
+        "Width":  144,
+        "Y":  3925,
+        "X":  4409,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3963,
+                          "Height":  60,
+                          "Width":  151,
+                          "Text":  "ILL",
+                          "X":  4284
+                      },
+                      {
+                          "Y":  3978,
+                          "Height":  45,
+                          "Width":  157,
+                          "Text":  "IAN",
+                          "X":  4449
+                      }
+                  ],
+        "Text":  "ILL IAN",
+        "Width":  322,
+        "Y":  3963,
+        "X":  4284,
+        "Height":  60
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4039,
+                          "Height":  16,
+                          "Width":  83,
+                          "Text":  "Alkindar",
+                          "X":  3217
+                      }
+                  ],
+        "Text":  "Alkindar",
+        "Width":  83,
+        "Y":  4039,
+        "X":  3217,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4065,
+                          "Height":  12,
+                          "Width":  30,
+                          "Text":  "Cor",
+                          "X":  3331
+                      },
+                      {
+                          "Y":  4068,
+                          "Height":  9,
+                          "Width":  49,
+                          "Text":  "amen",
+                          "X":  3362
+                      }
+                  ],
+        "Text":  "Cor amen",
+        "Width":  80,
+        "Y":  4065,
+        "X":  3331,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4108,
+                          "Height":  15,
+                          "Width":  65,
+                          "Text":  "Weesin",
+                          "X":  3246
+                      }
+                  ],
+        "Text":  "Weesin",
+        "Width":  65,
+        "Y":  4108,
+        "X":  3246,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4136,
+                          "Height":  9,
+                          "Width":  9,
+                          "Text":  "o",
+                          "X":  3275
+                      },
+                      {
+                          "Y":  4129,
+                          "Height":  16,
+                          "Width":  32,
+                          "Text":  "Teh",
+                          "X":  3290
+                      }
+                  ],
+        "Text":  "o Teh",
+        "Width":  47,
+        "Y":  4136,
+        "X":  3275,
+        "Height":  9
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4179,
+                          "Height":  16,
+                          "Width":  30,
+                          "Text":  "the",
+                          "X":  3299
+                      },
+                      {
+                          "Y":  4183,
+                          "Height":  12,
+                          "Width":  49,
+                          "Text":  "Farm",
+                          "X":  3335
+                      }
+                  ],
+        "Text":  "the Farm",
+        "Width":  85,
+        "Y":  4179,
+        "X":  3299,
+        "Height":  16
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4226,
+                          "Height":  12,
+                          "Width":  34,
+                          "Text":  "Nor",
+                          "X":  3270
+                      },
+                      {
+                          "Y":  4222,
+                          "Height":  16,
+                          "Width":  62,
+                          "Text":  "Chasen",
+                          "X":  3310
+                      }
+                  ],
+        "Text":  "Nor Chasen",
+        "Width":  102,
+        "Y":  4226,
+        "X":  3270,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4128,
+                          "Height":  26,
+                          "Width":  134,
+                          "Text":  "OTAINS",
+                          "X":  3518
+                      }
+                  ],
+        "Text":  "OTAINS",
+        "Width":  134,
+        "Y":  4128,
+        "X":  3518,
+        "Height":  26
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4040,
+                          "Height":  55,
+                          "Width":  111,
+                          "Text":  "Dee@",
+                          "X":  3910
+                      }
+                  ],
+        "Text":  "Dee@",
+        "Width":  111,
+        "Y":  4040,
+        "X":  3910,
+        "Height":  55
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4167,
+                          "Height":  12,
+                          "Width":  44,
+                          "Text":  "RAN",
+                          "X":  3747
+                      },
+                      {
+                          "Y":  4167,
+                          "Height":  12,
+                          "Width":  58,
+                          "Text":  "HEAD",
+                          "X":  3797
+                      }
+                  ],
+        "Text":  "RAN HEAD",
+        "Width":  108,
+        "Y":  4167,
+        "X":  3747,
+        "Height":  12
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4302,
+                          "Height":  58,
+                          "Width":  314,
+                          "Text":  "STORMS",
+                          "X":  2406
+                      }
+                  ],
+        "Text":  "STORMS",
+        "Width":  314,
+        "Y":  4302,
+        "X":  2406,
+        "Height":  58
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4529,
+                          "Height":  33,
+                          "Width":  113,
+                          "Text":  "QAIM",
+                          "X":  2477
+                      }
+                  ],
+        "Text":  "QAIM",
+        "Width":  113,
+        "Y":  4529,
+        "X":  2477,
+        "Height":  33
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4191,
+                          "Height":  31,
+                          "Width":  130,
+                          "Text":  "EBOU",
+                          "X":  2842
+                      },
+                      {
+                          "Y":  4191,
+                          "Height":  30,
+                          "Width":  107,
+                          "Text":  "DAR",
+                          "X":  2985
+                      }
+                  ],
+        "Text":  "EBOU DAR",
+        "Width":  250,
+        "Y":  4191,
+        "X":  2842,
+        "Height":  31
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4812,
+                          "Height":  57,
+                          "Width":  162,
+                          "Text":  "THE",
+                          "X":  3000
+                      }
+                  ],
+        "Text":  "THE",
+        "Width":  162,
+        "Y":  4812,
+        "X":  3000,
+        "Height":  57
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4393,
+                          "Height":  32,
+                          "Width":  176,
+                          "Text":  "ILLIA-N",
+                          "X":  4302
+                      }
+                  ],
+        "Text":  "ILLIA-N",
+        "Width":  176,
+        "Y":  4393,
+        "X":  4302,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4408,
+                          "Height":  47,
+                          "Width":  108,
+                          "Text":  "TRE",
+                          "X":  4584
+                      }
+                  ],
+        "Text":  "TRE",
+        "Width":  108,
+        "Y":  4408,
+        "X":  4584,
+        "Height":  47
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4430,
+                          "Height":  45,
+                          "Width":  141,
+                          "Text":  "SEA",
+                          "X":  4799
+                      }
+                  ],
+        "Text":  "SEA",
+        "Width":  141,
+        "Y":  4430,
+        "X":  4799,
+        "Height":  45
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4120,
+                          "Height":  23,
+                          "Width":  140,
+                          "Text":  "FINGERS",
+                          "X":  5017
+                      }
+                  ],
+        "Text":  "FINGERS",
+        "Width":  140,
+        "Y":  4120,
+        "X":  5017,
+        "Height":  23
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4148,
+                          "Height":  15,
+                          "Width":  30,
+                          "Text":  "OF",
+                          "X":  5042
+                      },
+                      {
+                          "Y":  4148,
+                          "Height":  16,
+                          "Width":  50,
+                          "Text":  "TUE",
+                          "X":  5079
+                      }
+                  ],
+        "Text":  "OF TUE",
+        "Width":  87,
+        "Y":  4148,
+        "X":  5042,
+        "Height":  15
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4168,
+                          "Height":  22,
+                          "Width":  132,
+                          "Text":  "DRACON",
+                          "X":  5017
+                      }
+                  ],
+        "Text":  "DRACON",
+        "Width":  132,
+        "Y":  4168,
+        "X":  5017,
+        "Height":  22
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4449,
+                          "Height":  29,
+                          "Width":  64,
+                          "Text":  "OF",
+                          "X":  5108
+                      }
+                  ],
+        "Text":  "OF",
+        "Width":  64,
+        "Y":  4449,
+        "X":  5108,
+        "Height":  29
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3676,
+                          "Height":  21,
+                          "Width":  173,
+                          "Text":  "SHANCTAI",
+                          "X":  6318
+                      }
+                  ],
+        "Text":  "SHANCTAI",
+        "Width":  173,
+        "Y":  3676,
+        "X":  6318,
+        "Height":  21
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  3708,
+                          "Height":  24,
+                          "Width":  154,
+                          "Text":  "TERMOOL",
+                          "X":  6599
+                      },
+                      {
+                          "Y":  3697,
+                          "Height":  33,
+                          "Width":  123,
+                          "Text":  "DESERT",
+                          "X":  6765
+                      }
+                  ],
+        "Text":  "TERMOOL DESERT",
+        "Width":  289,
+        "Y":  3708,
+        "X":  6599,
+        "Height":  24
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4108,
+                          "Height":  18,
+                          "Width":  99,
+                          "Text":  "CODAN",
+                          "X":  6063
+                      }
+                  ],
+        "Text":  "CODAN",
+        "Width":  99,
+        "Y":  4108,
+        "X":  6063,
+        "Height":  18
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4123,
+                          "Height":  28,
+                          "Width":  163,
+                          "Text":  "DROWNED",
+                          "X":  6276
+                      },
+                      {
+                          "Y":  4131,
+                          "Height":  12,
+                          "Width":  20,
+                          "Text":  "i\u0027.",
+                          "X":  6451
+                      }
+                  ],
+        "Text":  "DROWNED i\u0027.",
+        "Width":  195,
+        "Y":  4123,
+        "X":  6276,
+        "Height":  28
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4152,
+                          "Height":  22,
+                          "Width":  104,
+                          "Text":  "LANDS",
+                          "X":  6299
+                      }
+                  ],
+        "Text":  "LANDS",
+        "Width":  104,
+        "Y":  4152,
+        "X":  6299,
+        "Height":  22
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4178,
+                          "Height":  20,
+                          "Width":  67,
+                          "Text":  "BAY",
+                          "X":  6084
+                      },
+                      {
+                          "Y":  4186,
+                          "Height":  25,
+                          "Width":  39,
+                          "Text":  "or",
+                          "X":  6162
+                      }
+                  ],
+        "Text":  "BAY or",
+        "Width":  117,
+        "Y":  4178,
+        "X":  6084,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4338,
+                          "Height":  32,
+                          "Width":  204,
+                          "Text":  "MAYENE",
+                          "X":  6269
+                      }
+                  ],
+        "Text":  "MAYENE",
+        "Width":  204,
+        "Y":  4338,
+        "X":  6269,
+        "Height":  32
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4669,
+                          "Height":  41,
+                          "Width":  129,
+                          "Text":  "CINDA",
+                          "X":  5917
+                      },
+                      {
+                          "Y":  4675,
+                          "Height":  35,
+                          "Width":  106,
+                          "Text":  "KING",
+                          "X":  6048
+                      }
+                  ],
+        "Text":  "CINDA KING",
+        "Width":  237,
+        "Y":  4669,
+        "X":  5917,
+        "Height":  41
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4759,
+                          "Height":  33,
+                          "Width":  174,
+                          "Text":  "DIMENSION",
+                          "X":  6715
+                      }
+                  ],
+        "Text":  "DIMENSION",
+        "Width":  174,
+        "Y":  4759,
+        "X":  6715,
+        "Height":  33
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4788,
+                          "Height":  20,
+                          "Width":  84,
+                          "Text":  "DOOR",
+                          "X":  6724
+                      },
+                      {
+                          "Y":  4798,
+                          "Height":  21,
+                          "Width":  53,
+                          "Text":  "2021",
+                          "X":  6817
+                      }
+                  ],
+        "Text":  "DOOR 2021",
+        "Width":  146,
+        "Y":  4788,
+        "X":  6724,
+        "Height":  20
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4784,
+                          "Height":  86,
+                          "Width":  426,
+                          "Text":  "WHEEL",
+                          "X":  3206
+                      },
+                      {
+                          "Y":  4812,
+                          "Height":  58,
+                          "Width":  103,
+                          "Text":  "OF",
+                          "X":  3680
+                      },
+                      {
+                          "Y":  4783,
+                          "Height":  87,
+                          "Width":  288,
+                          "Text":  "TIME",
+                          "X":  3830
+                      }
+                  ],
+        "Text":  "WHEEL OF TIME",
+        "Width":  912,
+        "Y":  4784,
+        "X":  3206,
+        "Height":  86
+    },
+    {
+        "Words":  [
+                      {
+                          "Y":  4922,
+                          "Height":  23,
+                          "Width":  71,
+                          "Text":  "THE",
+                          "X":  3174
+                      },
+                      {
+                          "Y":  4914,
+                          "Height":  32,
+                          "Width":  295,
+                          "Text":  "WESTLANDS",
+                          "X":  3255
+                      },
+                      {
+                          "Y":  4923,
+                          "Height":  21,
+                          "Width":  41,
+                          "Text":  "IN",
+                          "X":  3567
+                      },
+                      {
+                          "Y":  4922,
+                          "Height":  23,
+                          "Width":  71,
+                          "Text":  "THE",
+                          "X":  3621
+                      },
+                      {
+                          "Y":  4914,
+                          "Height":  30,
+                          "Width":  164,
+                          "Text":  "THIRD",
+                          "X":  3707
+                      },
+                      {
+                          "Y":  4914,
+                          "Height":  31,
+                          "Width":  96,
+                          "Text":  "ACE",
+                          "X":  3884
+                      }
+                  ],
+        "Text":  "THE WESTLANDS IN THE THIRD ACE",
+        "Width":  806,
+        "Y":  4922,
+        "X":  3174,
+        "Height":  23
+    }
+]
