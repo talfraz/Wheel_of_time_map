@@ -1,0 +1,22 @@
+{
+  "name": "מפת כישור הזמן | Wheel of Time Map",
+  "short_name": "כישור הזמן",
+  "description": "המפה האינטראקטיבית הדו-לשונית של עולם כישור הזמן",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#cca43b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

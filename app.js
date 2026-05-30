@@ -121,6 +121,15 @@ document.addEventListener('DOMContentLoaded', () => {
   initEventListeners();
   loadLocations();
 
+  // Register Service Worker for Progressive Web App (PWA) installation
+  if ('serviceWorker' in navigator && window.location.protocol !== 'file:') {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js')
+        .then(reg => console.log('[Service Worker] Registered successfully', reg.scope))
+        .catch(err => console.error('[Service Worker] Registration failed:', err));
+    });
+  }
+
   // Check protocol and display warning if opened via file://
   if (window.location.protocol === 'file:') {
     showProtocolWarning();
